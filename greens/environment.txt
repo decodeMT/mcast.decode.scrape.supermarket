@@ -8,5 +8,6 @@ pip install jupyter
 ipython kernel install --name "star-kernel" --user
 pip install pandas
 pip install bs4
+pip install sqlalchemy psycopg2-binary
 python -m pip freeze > requirements.txt
 .\star\Scripts\deactivate
