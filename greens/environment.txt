@@ -1,0 +1,12 @@
+USE CMD
+
+pip install virtualenv
+python -m pip install --upgrade pip
+python -m virtualenv --python=3.10 star
+.\star\Scripts\activate
+pip install jupyter
+ipython kernel install --name "star-kernel" --user
+pip install pandas
+pip install bs4
+python -m pip freeze > requirements.txt
+.\star\Scripts\deactivate
