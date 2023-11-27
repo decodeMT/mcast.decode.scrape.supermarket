@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19735,Kiwi Small,4.75,4.75,1.0,kg,True,False,,fruitsandvegetables,Fruit; Kiwi; Fruits and Vegetables
+19787,Aloc X Amazonica,16.18,16.18,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19791,"Pineapple, Fennel & Ginger Juice",2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19833,Tofu/vegetable Kebab,1.25,1.25,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19834,Aglaonema,23.6,23.6,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19846,Pink Oyster Mushrooms,50.06,50.06,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+19868,White Diced Onions 200g,0.99,0.99,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19908,Peperomia,11.67,11.67,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19913,Apple Wedges,0.98,0.98,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19928,Aloc X Amazonica,52.99,52.99,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19939,Calat Sanderiana,52.99,52.99,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19948,Potatoes ( 4kg Bag ),4.8,4.8,1.0,p,False,False,,fruitsandvegetables,Potatoes; Fruits and Vegetables; Vegetables
+19984,Rhubarb Per Kg,8.02,8.02,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20011,Coriander In Pot,4.13,4.13,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+20016,Pears ( Peeled Prickley Pears ),4.95,4.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20027,Hericot Verts,3.74,3.74,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20070,Carrots Spaggetti Fresh,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20074,Chicken Hazelnut Ceaser,5.95,5.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20087,Barlotti Pears,4.95,4.95,1.0,kg,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+20148,Vriesea Astrid,15.12,15.12,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20174,Pear ( Prickly Pears ) Per Kg,3.45,3.45,1.0,p,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+20234,Fic Beng Roy,12.79,12.79,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20247,Doreoc Special Frites 2.5kg,2.95,2.95,0.0,,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20319,Vegetable Couscous,8.93,8.93,1.0,kg,True,False,Malta,fruitsandvegetables,Salads; Fruits and Vegetables
+20382,Peperomia,11.42,11.42,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20389,Fruit Salad Cups,2.25,2.25,1.0,p,False,False,,fruitsandvegetables,Salads; Other Pre-Packed Salads; Fruits and Vegetables
+20405,Ger Colourgame Gem,5.1,5.1,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20406,"White Grapes, 1kg",4.95,4.95,1.0,kg,True,False,,fruitsandvegetables,Fruit; Fruits and Vegetables; Grapes
+20416,Dra Gem,19.34,19.34,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20425,Pumpkin Qararotta,1.75,1.75,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20428,Beef & Fagioli Soup 500ml,4.95,5.2,0.5,l,False,False,Malta,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20430,Apple & Ginger Juice 500ml,5.75,5.75,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20450,Chicken Katsu Baguette,5.45,5.72,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20454,"Papaya,mango & Dragon Fruit Platter",3.95,3.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20465,Ro Baby Jewel,6.69,6.69,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20472,Kiwi Gold,8.0,8.0,1.0,kg,True,False,,fruitsandvegetables,Fruit; Kiwi; Fruits and Vegetables
+20482,Coconut,1.65,1.65,1.0,p,False,False,,fruitsandvegetables,Fruit; Exotic Fruit; Fruits and Vegetables
+20484,Aloe Vera,12.41,12.41,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20491,Avocado Ready To Eat Per Piece,1.4,1.4,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20500,Naga Jolokia 80g,10.96,10.96,1.0,kg,True,False,,fruitsandvegetables,Fresh Green Vegetables; Fruits and Vegetables; Vegetables
+20518,Swede Per Kg,2.69,2.69,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20519,Wallnuts In Figs/dates/apricots,16.95,16.95,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20553,Aubergines By Kg,3.24,3.24,1.0,p,True,False,,fruitsandvegetables,Aubergines; Fruits and Vegetables; Vegetables
+20558,Spaghetti Squash Per Kg,4.7,4.7,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20625,Cut Beans,12.63,12.63,1.0,kg,True,False,,fruitsandvegetables,Beans; Beans Peas and Sprouts; Fruits and Vegetables
+20793,Red Watermelons Quarter,3.22,3.22,1.0,p,True,False,,fruitsandvegetables,Melons; Fruits and Vegetables; Vegetables
+20820,Nettle Leaves 110g,4.12,4.12,0.11,kg,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+20932,Mixed Fruit Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20976,Ginger,6.8,6.8,1.0,p,True,False,,fruitsandvegetables,Ginger; Fruits and Vegetables; Vegetables
+20984,Erica Darley White Perfect,4.78,4.78,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20986,Chrys Gem In Pot,5.86,5.86,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21019,Plum Vine Tomatoes,5.31,5.31,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21058,Yellow French Beans By Kg,16.13,16.13,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21067,Mango Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21069,Shredded Tri Colori X300g,1.98,1.98,0.2,p,False,False,Italia,fruitsandvegetables,Fruit and Vegetable (Freshly Cut); Fresh Cut Fruit and Vegetables; Fruits and Vegetables
+21072,Calat Ov,10.1,10.1,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21086,Pomegranate Seed,3.95,3.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21091,Ginger & Turmeric Shots 150ml,2.75,2.75,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21113,Carrots With Leafs,2.06,2.06,1.0,kg,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21142,Turnips ( Foreign Turnips ),2.19,2.19,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21183,Apples ( Golden Delicious Apples ) By Kg,2.82,2.82,1.0,kg,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+21195,Pineapple ( Peeled Pineapple ),3.75,3.75,1.0,p,False,False,,fruitsandvegetables,Fruit; Pineapple; Fruits and Vegetables
+21208,Sliced Red Onions 500g,1.75,1.75,0.5,kg,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21261,Marjoram In Pot,4.2,4.2,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21297,Figs ( Fresh Figs ) By Kg,33.82,33.82,1.0,kg,True,False,,fruitsandvegetables,Fruit; Organic Fruit; Fruits and Vegetables
+21324,Ro Am Inf Soft Pink,7.93,7.93,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21325,Toffee & Cinnamon Apple Granola Cup,2.45,2.45,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21338,Baby Roses Plantx12,55.0,55.0,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21350,Pachira Aquatica,15.13,15.13,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21360,Duck Bao Buns,7.45,7.82,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21388,Yellow Tomatoes,6.19,6.19,1.0,kg,True,False,,fruitsandvegetables,Tomatoes; Fruits and Vegetables; Vegetables
+21427,Pteris Straminea,9.62,9.62,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21439,Mill Kcina Taz Zija Freskezza Spinach 300g,2.74,2.85,0.3,p,False,False,,fruitsandvegetables,Salads; Mil-Kcina Taz-Zija; Other Pre-Packed Salads; Fruits and Vegetables
+21460,Figs Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21464,Herbs ( Fresh Thyme ) Pkts,1.45,1.45,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21478,Baby Spinach 350g,5.5,5.5,1.0,kg,False,False,,fruitsandvegetables,Salads; Other Pre-Packed Salads; Fruits and Vegetables
+21503,Mustard Ground 350g,4.35,4.35,0.35,kg,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21531,Grapefruit Juice 250ml,2.58,2.58,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21532,Arr  Strelitzia L%,15.38,15.38,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21535,Beg Du Gem,7.81,7.81,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables

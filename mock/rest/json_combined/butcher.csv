@@ -1,0 +1,83 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+20886,American Ranch Breaded Chicken Goujons 500g,4.25,4.75,0.0,,False,False,,butcher,Refrigerated; Butcher; Frozen Chicken; Chicken
+20893,Mortadella Sausage,14.18,14.18,1.0,kg,True,False,Malta,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+20912,New Zealand Lamb French Rack,42.0,42.0,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+20966,Local Pork Chops,7.64,7.64,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+21023,Frozen Sliced Beef,11.25,11.25,1.0,kg,True,False,Ireland,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21050,New Zealand Boneless Shoulder,23.05,23.05,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21103,Local Chick Wings Tom/herbs,6.95,6.95,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21131,New Hot Cajun Sausage,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+21179,Fresh Whole Turkey,7.88,7.88,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+21221,Local Chick Drumsticks Tom/herbs,7.5,7.5,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21262,Amadori Kebab 350g,3.99,4.8,0.35,kg,False,False,,butcher,Beef; Frozen Beef; Refrigerated; Butcher; Amadori
+21370,Osgrow Camel Steak,75.0,75.0,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+21380,Local Capon,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+21390,"Scotch Aberdeen 
+Angus 
+Ox Fillets",59.5,59.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21391,Chicken Thighs Indian Mystery,10.5,10.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21546,Fresh Imported Leg Of Lamb,24.9,24.9,1.0,kg,True,False,United Kingdom,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21565,Veal Standing Rib,30.5,30.5,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21597,Chicken Legs Argentina Fire,6.0,6.0,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21645,Lamb Quarters,18.4,18.4,1.0,kg,True,False,Italia,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21919,Angus Beef Burger,11.8,11.8,0.1,kg,True,False,Malta,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22030,Classic Lincs Pork Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22114,Fresh Local Capons,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22127,Pork & Chive Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22169,Carvery Rib Scottona,31.2,31.2,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22187,Italian Beef Fillet,48.29,48.29,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22221,Fresh Whole Chicken,4.5,4.5,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22245,New Zealand Leg Of Lamb,14.5,14.5,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+22283,Imported Milk Fed Veal Topside,24.99,24.99,1.0,kg,True,False,Netherlands,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22351,Amadori Chicken Nuggets 300g,3.68,4.72,0.3,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22381,Amadori Le Birbe (chicken) Pops 250gr,3.14,3.41,0.25,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22402,Amadori Chicken With Smoked Paprika 500g,5.2,5.78,0.5,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22521,Fresh Imported Lamb Fillets,29.99,29.99,1.0,kg,True,False,Australia,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+22529,New Mexican Chilli Sausage,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22586,Mazzit Ta' Malta,14.7,14.7,1.0,kg,True,False,Malta,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22703,Fresh Turkey Wings,4.75,4.75,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+22726,Chicken Shish Smokey Bbq,13.5,13.5,1.0,kg,True,False,China,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22746,Uruguay 200 Day Ribeye Grass Fed,32.5,32.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22813,Chicken Breast Cubes,9.5,9.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22832,Rabbit Shoulder,10.0,10.0,1.0,kg,True,False,,butcher,Rabbit; Fresh Rabbit; Refrigerated; Butcher
+22855,Whole Pheasants,14.95,14.95,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22870,Local Pork Hocks,4.99,4.99,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+22898,Amadori Qualita 10+ Fesa Di Tacchino A Fette 400g,8.66,8.66,0.4,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22937,Pork & Mustard Seed Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22960,Scottona Fillet,47.9,47.9,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22962,Irish T-bone,35.2,35.2,1.0,kg,True,False,Ireland,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23012,Amadori Cordon Bleu 250g,3.68,4.72,0.25,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23025,Amadori Buona Domenica Ricotta & Spinach 700g,8.35,8.35,0.7,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23026,Pork Celebration Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+23108,New Zealand Lamb Tenderloins,37.39,37.39,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+23140,Amadori Buona Domenica 700g,8.35,8.35,0.7,kg,False,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher; Amadori
+23144,Lean Beef Mince,10.65,10.65,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23149,Local Chick Breast Hot/spicy,10.5,10.5,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23263,Stuffed Chicken,14.95,14.95,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23435,Involtini Di Pollo X4,14.74,14.74,1.0,kg,True,False,Italia,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+23445,Amadori Tenders Chicken 280g,4.99,5.4,0.28,kg,False,False,,butcher,Refrigerated; Butcher; Frozen Chicken; Amadori; Chicken
+23559,Amadori Gran Burger 280g,3.68,4.2,0.28,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23567,Fresh Local Chicken Necks,2.65,2.65,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23605,Chicken Drumsticks Mediterrne Herb,7.5,7.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23653,Scotch Marinated Steak,17.5,17.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23723,Local Whole Chick Hot/spicy,5.7,5.7,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23732,Chicken Bones,1.0,1.0,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23748,Fresh Imported Capons,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+23849,Local Chick Wings Bbq,6.95,6.95,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23919,Fresh Local Chicken Livers,4.6,4.6,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23961,"Dafgards Swedish Meatballs, 500g",6.39,6.49,0.5,kg,False,False,,butcher,Beef; Frozen Beef; Refrigerated; Butcher; Familjen Dafgard
+23974,Amadori Salsiccia Di Tacchino E Pollo (sausgaes) 650g,5.94,6.3,0.65,kg,False,False,,butcher,Fixed Price Prepack Sausages; Sausages; Refrigerated; Butcher; Amadori
+23995,Italian Rib Beef,13.49,13.49,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24018,Beef Bones,4.2,4.2,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24033,Local Pork Spare Ribs,11.96,11.96,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24159,Fresh Turkey Necks,4.57,4.57,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+24163,Usda Heart Rump,22.5,22.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24307,Chicken Thighs Smokey Bbq,10.5,10.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+24323,Usda Aged Sirlow,63.98,63.98,1.0,kg,True,False,USA,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24358,Pork Rib Roast,9.99,9.99,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24460,Fresh Lamb Belly Roll,18.65,18.65,1.0,kg,True,False,United Kingdom,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+24466,Chicken Shish Indian Mystery,13.5,13.5,1.0,kg,True,False,China,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+24591,Local Pork Stuffed Neck,10.5,10.5,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24717,Pork & Beef Mince,9.5,9.5,1.0,kg,True,False,Malta,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24730,Italian Beef Rump Steak,14.95,14.95,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24786,Smoked Spare Ribs,12.5,12.5,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork

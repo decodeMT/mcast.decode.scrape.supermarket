@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19752,Cheeson Soft Cheese Full Fat 150g,2.55,2.6,0.15,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables
+19761,Stuffer Da Bere Lattosio Banana 500g,2.36,2.75,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Stuffer; Yoghurts and Desserts
+19778,Noel Fuet Vela Extra 170g,3.36,3.63,0.17,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+19795,Cheese & Sun-dried Tomatoes 200g,3.85,3.9,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Camel Brand; Refrigerated; Dips
+19796,Cameo Muu Muu Vaniglia X4,3.99,4.5,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Cameo; Yoghurts and Desserts
+19808,Stuffer Yogurt Latosio  Banana 0.1% 125g,1.65,2.0,0.13,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Stuffer; Dairy Free Porducts
+19856,Espana Chorizo Sarta Extra Picante 200g,2.99,3.5,0.2,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+19860,Alpha Gefsi Cream Cheese Feta & Greek Yogurt Speard 200g,3.09,3.15,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+19872,Fiorucci Rostello Afftettato 130g,5.99,6.09,0.13,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Fiorucci; Refrigerated
+19906,Parmalat Chef Panna Cremosa E Omogenea 200ml,1.95,2.28,0.2,l,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+19942,Danone Hipro Cup Mirtilllo 160g,1.91,1.99,0.16,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+19952,Arizona Half & Half Iced Tea Tropical 680ml,1.89,2.5,0.68,l,False,True,,chilledanddairy,Chilled and Dairy; Chilled Beverages; Arizona; Refrigerated
+19955,Alpha Gefsi Spicy Cheese Dip With Feta 200g,2.74,2.8,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+19967,Dairymaid Prm.spread 454g,3.29,3.4,500.0,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+19975,Schar Veggie Pizza Cereali 390g,5.8,6.45,0.39,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Schar; Refrigerated; Chilled Gluten Free Products 
+20013,Arla Cream Cheese Pineapple 200g,2.52,2.6,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Arla
+20023,Balut Eggs X6,1.72,1.94,6.0,p,False,False,,chilledanddairy,Chilled and Dairy; Milk and Eggs; Refrigerated; Eggs; Ballut
+20055,Philadelphia Fantasie Salmone X6,3.95,4.5,6.0,p,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Philadelphia
+20056,Muller Yogurt Di Crema Ciliegia 250g,1.56,1.75,1.0,p,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20059,Bluecheese Dip,11.55,11.55,1.0,kg,True,False,Malta,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20060,Quescrem Spread Cheese With Garlic 200g,3.35,3.38,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables
+20066,Steril Yoghurt Maxi Fragola 500g,1.94,1.99,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Sterilgarda; Refrigerated; Yoghurts and Desserts
+20097,Muller Bianco Seto Mirtilli E Vanila 2 X 250g,1.54,1.76,0.25,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20109,Artichokes Dip,11.55,11.55,1.0,kg,True,False,Malta,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20117,Vitalite Standard 500g,4.13,4.19,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Vitalite
+20132,Espana Salchichon Extra 100g,1.84,2.5,0.1,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+20134,"Berchtesgadener Land Alpenzwerg Organic-chocolate-milk 1,5% 250g",1.2,1.22,0.25,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20185,Alpha Gefsi Tzatziki Dip 200g,2.38,2.5,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20198,Halta Margarina Vegetale 250g,1.03,1.35,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Halta
+20209,Delta Natural Greek Yog 10% 150g,1.67,1.69,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Delta; Yoghurts and Desserts
+20211,Delta Greek Yogurt 0% Cherry 150g,1.72,1.75,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20216,Zott Monte Single Pot 150g,1.55,1.59,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Monte; Yoghurts and Desserts
+20219,Wuber Frankfuter 200gr,2.99,3.7,0.2,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Sausages; Refrigerated
+20244,President Unsalted Butter 250g,4.82,5.48,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; President
+20256,Hanini Creamylight Cooking Cream,1.24,1.28,0.16,kg,False,False,,chilledanddairy,Hanini; Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+20260,Discus Coleslaw 250g,2.52,2.52,0.25,kg,False,False,,chilledanddairy,Discus; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20263,Rudolfs Joyful Bio Banana Strawberry Smoothie 260ml,2.61,2.72,0.26,l,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20275,Philadelphia Cottage Cheese 200g,3.3,3.39,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Philadelphia
+20287,Zott Protein Pudding Caramel 200g,1.43,1.49,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Zott; Refrigerated; Yoghurts and Desserts
+20292,Cucina D'oro Uht Cooking Cream 200ml,1.08,1.09,0.2,l,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+20317,I Can't Believe It's Not Butter Spread 500g,2.99,3.59,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; I Can'T Believe It'S Not Butter
+20328,Delta Greek Yogurt Coconut Choc  150g,1.72,1.75,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20351,Lurpak Butter Latte Fresco 10 X 100g,2.59,3.11,0.1,kg,False,False,,chilledanddairy,Butter; Lurpak; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+20355,Dany Original Chicken Luncheonmeat 300g,2.65,2.79,0.3,kg,False,False,,chilledanddairy,Chilled and Dairy; Mortadella and Luncheon Meat; Chilled Luncheonmeat/Mortadella; Dany
+20415,Olympus Drink Kefir Plain 1% 500ml,1.65,1.74,0.5,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Olympus; Yoghurts and Desserts
+20426,Cranberry Skin Pate,39.99,39.99,1.0,kg,True,False,Belgium,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20427,Muller Dessert Proteico Vaniglia Panna 200g,2.63,3.25,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20440,Berchtesgadener Land Bio-fruit Quark Strawberry 200g,1.76,1.8,0.2,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20480,Fage Fruyo Coconut 1.3% 150g,1.87,1.92,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Fage; Refrigerated; Yoghurts and Desserts
+20496,Danone Activia 0.1% Pesca 4x125g,3.5,3.65,0.13,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20499,Stuffer Dessert Proteico Vaniglia 200g,1.95,2.45,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Stuffer; Yoghurts and Desserts
+20527,Kolios Hercules High Protein Greek Yogurt 0% 200g,1.99,2.09,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Kolios; Yoghurts and Desserts
+20542,Danone Hipro Mango 300g,2.82,2.95,0.3,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20545,Zott Jogobella Panna Cotta 150g,0.65,0.69,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Zott; Refrigerated; Yoghurts and Desserts
+20546,Valsoia Bonta Salute Yosoi Vaniglia 2 X 125g,2.25,2.4,0.25,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Valsoia; Yoghurts and Desserts
+20556,Pascual Flavoured Vanilla 4x125g,2.64,2.8,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Pascual; Yoghurts and Desserts
+20565,Devon Double Cream 170g,4.43,4.5,0.17,kg,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams; Devon
+20573,Lurpak Spreadable Light 250g,4.54,4.55,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+20574,Vegan Deli Chives 100g,3.39,3.59,0.1,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Vegetarian Products
+20587,Montare D'oro Spray  241ml,2.45,2.49,0.24,l,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Refrigerated
+20592,Camel Brand Salami Dip 230g,3.69,3.75,0.23,kg,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Camel Brand; Refrigerated
+20594,Remia Sunflower Margerine 500g + 250g Free,4.41,4.49,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Remia
+20600,Pascual Yogikids Duo Chocolate 2x80g,2.85,2.9,0.16,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Pascual; Yoghurts and Desserts
+20607,Tulip Pancetta A Cubetti 100g,2.24,2.29,0.1,kg,False,False,,chilledanddairy,Tulip; Chilled Foods; Chilled and Dairy; Chilled Bacon
+20622,Pinsa Cuore Italiano Integrale 460gr,6.25,7.0,0.23,l,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Pasta; Refrigerated
+20626,Divella Tagliatelle Uovo 250g,1.52,2.0,0.25,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Pasta; Divella; Refrigerated
+20630,Danone Actimel Fragola X6,4.26,4.7,6.0,p,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20632,Mevgal Autentic Greek Yogurt 0% Fat 900g,5.99,6.15,0.9,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Mevgal; Refrigerated; Yoghurts and Desserts
+20638,Milk Pro Protein Source Snack Fresco Al Cacao 4x40gr,6.5,8.0,0.16,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20650,Camel Brand Capers  X 300g,2.75,2.8,0.3,kg,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Camel Brand; Refrigerated
+20710,President Whipping Cream 500ml,6.69,6.75,0.5,kg,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams; President
+20716,Discus Danish White Cheese With Chilli,1.4,1.4,1.0,p,False,False,,chilledanddairy,Discus; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20732,Muller Mix Pistacchios Mandorle 150g,1.52,1.55,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20763,Parmalat Kyr Fragola 2x125gr,1.99,2.5,0.13,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts; Parmalat
+20768,Danone Danacol Fragola 8x100ml,7.99,8.49,0.1,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20804,Regilait Frappe Latte Caffe 250ml,2.27,2.5,0.25,l,False,True,,chilledanddairy,Regilait; Chilled and Dairy; Chilled Beverages; Refrigerated
+20845,Milk Snack Al Latte 4x28g,1.99,2.19,0.03,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20895,Country Life Butter Salted 250g,6.29,6.41,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Countre
+20902,Leoncini Pancetta Affumicata Cubetti 2x50g,2.27,2.4,0.1,kg,False,False,,chilledanddairy,Leoncini; Chilled Foods; Chilled and Dairy; Chilled Bacon
+20921,Josefa Blue Cheese Dip  195g,2.19,2.85,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Josefa; Refrigerated; Dips

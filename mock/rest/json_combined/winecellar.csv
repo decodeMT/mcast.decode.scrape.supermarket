@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19583,Sella & Mosca Cannonau Di Sardegna 750ml,10.86,11.49,0.75,l,False,False,Italia,winecellar,Wines; Sella & Mosca; Wine Cellar; Foreign Wines
+19587,Kaiserdom Lemon Zero Alcohol 500ml,1.15,1.5,0.5,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19603,Contrada Monte Gorna Etna Rosso Bio 750ml,15.95,20.5,0.75,l,False,False,,winecellar,NICO; Wines; Wine Cellar; Foreign Wines
+19626,Malibu 70cl,15.7,15.95,0.7,l,False,False,,winecellar,Malibu; Wine Cellar; Spirits
+19628,Farina Amarone Della Valpolicella 750ml,42.79,44.81,1.0,p,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19652,Bollinger Special Cuvee 75cl,47.82,49.02,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19654,Brussels Beer Project Jungle Joy 330ml,3.44,3.7,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19663,Bordeaux Blanc Calvet Reserve Calvet 750ml,8.87,9.23,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19665,Blossom Hill White Zinfandel 750ml,6.8,7.25,0.75,l,False,False,,winecellar,Wines; Blossom; Wine Cellar; Foreign Wines
+19672,El Monstruo Malbec Bonarda Arg. 75cl,9.83,10.4,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19675,Bolla Soave 2021 37.5cl,5.93,6.61,0.38,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19686,9 Mile Vodka 700ml,18.88,19.28,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19691,Nicosia Generazione 898 Merlot Igt 750ml,5.98,7.45,0.75,l,False,False,,winecellar,NICO; Wines; Wine Cellar; Foreign Wines
+19697,Prosecco Frizzante Docg Corda Gold 750ml,8.25,10.2,0.75,l,False,False,,winecellar,Champagne and Sparkling Wine; Tonon; Wines and Champagne; Wine Cellar
+19702,B&g Beaujolais Villages Passeport 2020 700ml,9.57,10.95,0.7,l,False,False,France,winecellar,Wines; Wine Cellar; Foreign Wines
+19703,Mureda Cabernet Sauvignon Organic 750ml,3.93,4.39,0.75,l,False,False,,winecellar,Wines; Mureda; Wine Cellar; Foreign Wines
+19722,Cignale 2012,54.6,65.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19725,La Traversata Vermentino Toscana 75cl,6.95,8.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19729,Kirin Ichiban Btls 330ml,1.75,2.59,0.33,l,False,True,,winecellar,Beer and Ciders; Nabeer; Wine Cellar; Beers
+19768,Malfy Original 70cl,34.75,34.82,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19771,La Chica Gold Tequila 70cl,14.68,14.92,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19772,Caleo 2021 Negroamaro Igt 750ml,5.18,5.5,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Caleo
+19777,Jp Chenet Fashion Watermelon 750ml,6.95,7.99,0.75,l,False,False,,winecellar,Wines; J.P. Chenet; Wine Cellar; Foreign Wines
+19779,Etsu Japanese Gin 43% - 6x70cl,42.88,45.8,0.7,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19806,Deutz Champagne Rose Classic 75cl,71.47,76.57,0.75,l,False,False,,winecellar,Champagne and Sparkling Wine; Wines and Champagne; Wine Cellar
+19809,Triplica Greco Di Tufo Triplica 75cl,12.07,12.46,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19811,Pitters Tawny Port 750ml,10.22,10.99,0.75,l,False,False,,winecellar,Wine Cellar; Port and Sherry Wine
+19828,Vinironia Prosecco Organic 750ml,10.45,11.09,0.75,l,False,False,,winecellar,Wine Cellar; Spirits
+19839,Bacchus Vermentino 75cl,5.48,6.08,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19854,Corvezzo Bianco Sauvignon 75cl,7.95,9.95,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19855,Freixenet Pinot Grigio Garda Doc 750ml,10.42,10.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19857,Frontera Cabernet Sauvignon 750ml,4.67,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Frontera
+19879,Moscato D'asti 2022,5.49,7.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19880,Chimay Gold 330ml,3.08,3.13,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19891,Flinders Rose,3.49,3.55,0.33,l,False,True,,winecellar,Beer and Ciders; Lord Chambray; Wine Cellar; Beers
+19893,Clarendelle Medoc Rouge 750ml,22.47,24.4,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19903,19 Crimes The Banished 750ml,11.37,11.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19919,Hawkes Pineapple Punch Cider 330ml Can,2.87,2.95,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19954,Fireball Cinnamon  Whisky Liquor 70cl,17.62,17.98,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19964,Kalinska Vodka 1l,11.98,12.98,1.0,l,False,False,,winecellar,Wine Cellar; Spirits
+19981,Sierra Atomic Torpedo 355ml,2.87,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19986,Zeppi's Rummiena 500ml,9.95,10.76,0.5,l,False,False,,winecellar,Liquours; Zeppi; Wine Cellar; Spirits
+19994,Miguel Torres Santa Digna Sauvignon Blanc Vegan 750ml,7.82,8.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19995,Rustico Rose 75cl,6.35,7.08,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20009,Diplomático Planas Ultra Premium White Rum 47%,32.26,33.19,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20017,Kumala Reserve Chenin Blanc 750ml,8.52,8.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20024,Surrau Sole Di Surrau 375ml,19.95,26.0,0.38,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20030,Verdala Frizzante Girgentina 750ml,4.98,5.59,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20034,Casillero Del Diablo Sauvignon Blanc 750ml,6.99,8.99,0.75,l,False,False,,winecellar,Casillero; Wines; Wine Cellar; Foreign Wines
+20037,Chenin Blanc Cape Creek 750ml,5.8,6.04,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20039,Papa Figos Portugal 750ml,12.05,12.59,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20048,Jp Chenet Ice Edition Sparkling Blanc 750ml,6.63,8.5,0.75,l,False,False,,winecellar,Wines; J.P. Chenet; Wine Cellar; Foreign Wines
+20057,Talisker Storm 700ml,61.89,62.87,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20065,Conde Jose Sauvignon Blanc 75cl,8.82,10.5,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20076,Drumshanbo Gunpowder Irish Gin With Sardinian Citrus 700ml,45.61,47.26,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20093,Puiss Saintemilion Chatmoulindecurat 750ml,17.95,19.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20098,Leopard's Leap Chenin Blanc 750ml,8.21,9.17,0.75,l,False,False,South Africa,winecellar,Wines; Wine Cellar; Foreign Wines
+20111,Les Breteches Rouge Chateau Kefraya Lebanon 75cl,13.22,13.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20116,Sierra Nevada California Ipa Can 355ml,2.9,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20126,Franziskanser Dunkel 500ml,2.25,2.5,0.5,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20136,Sierra Torpedo Can 355ml,2.87,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20139,Flor De Vetus Do Rueda 75cl,9.95,13.37,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20142,J.koll Liebfraumilch Blue Bottle 750ml,7.09,7.14,0.75,l,False,False,,winecellar,Wine Cellar; Spirits
+20149,Leasingham Jam Shed Malbec 750ml,5.68,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20175,Santero 958 Rossini 750ml,7.61,7.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20180,Marsovin Citadella White 750ml Exc Empty Bottle,3.68,4.11,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20191,Chateau Laurens Lnguedoc Faugere Bio 75cl,9.95,12.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20201,Calvet Cabernet Sauvignon 2019 750ml,5.73,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20202,Paolini Vino Frappato 75cl,3.95,4.75,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20205,Nicosia Spumante Gari' Grillo Doc Sicilia 750ml,8.98,11.25,0.75,l,False,False,,winecellar,NICO; Champagne and Sparkling Wine; Wines and Champagne; Wine Cellar
+20206,Barone Di Bernaj Cabernet Sauvignon 75cl,3.95,4.29,0.75,l,False,False,,winecellar,Wines; BARONE DI BERNAJ; Wine Cellar; Foreign Wines
+20218,Ulysses Chenin Chardonnay 750ml,11.26,12.03,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20221,Tommasi Ripasso Valpolicella 750ml,31.61,33.45,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20223,Jacobs Creek Shiraz Cabernet Classic 750ml,8.69,9.69,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Jacob'S Creek
+20232,Curatolo Zibibbo Liquoroso 750ml,18.82,19.91,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20236,Chateau Moulinet La Serre 750ml,39.85,52.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20240,Montecore Primitivo 75cl,5.95,8.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20241,"Dewar's Scotch Whisky White Label, 700ml",13.91,16.99,0.7,l,False,False,,winecellar,DEWARS; Wine Cellar; Spirits
+20245,Canti Cuvee Dolce Rose 750ml,8.11,8.53,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20272,Viu Manent Malbec Rose 750ml,8.63,8.83,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines

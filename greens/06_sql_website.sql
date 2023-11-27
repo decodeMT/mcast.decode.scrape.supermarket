@@ -57,3 +57,50 @@ from (
 		sizeuom, isWeighted, bcrs, country
 ) as prod
 
+
+-- to reduce file size
+
+WITH RankedProducts AS (
+    SELECT 
+        pr.productId AS productid, 
+        product, 
+        salesprice, 
+        salespricerrp, 
+        sizevalue, 
+        sizeuom, 
+        isWeighted, 
+        bcrs, 
+        country, 
+        REPLACE(scrapeTag, 'greens_', '') AS category,
+        STRING_AGG(labelText, '; ') AS labels,
+        ROW_NUMBER() OVER (PARTITION BY REPLACE(scrapeTag, 'greens_', '') ORDER BY pr.productId) AS rn
+    FROM 
+        product pr 
+        LEFT JOIN country co ON pr.countryId = co.countryId
+        LEFT JOIN size_uom su ON pr.sizeid = su.sizeid
+        LEFT JOIN product_label pl ON pl.productId = pr.productId
+        LEFT JOIN labels la ON pl.labelId = la.labelId
+    WHERE 
+        labelText NOT IN ('Green''S', 'Greens (Brand)', 'Greens Products', 'Greens Salads')
+     	AND product NOT ILIKE '%Green%'
+	GROUP BY 
+        pr.productId, product, salesprice, salespricerrp, sizevalue, sizeuom, isWeighted, bcrs, country
+)
+
+SELECT JSON_AGG (
+    JSON_BUILD_OBJECT (
+        'product_id', productid, 
+        'product', product, 
+        'salesprice', salesprice, 
+        'salespricerrp', salespricerrp, 
+        'sizevalue', sizevalue, 
+        'sizeunit', sizeuom, 
+        'isWeighted', isWeighted, 
+        'bcrs', bcrs, 
+        'country', country, 
+        'category', category,
+        'labels', labels
+    )
+) AS products
+FROM RankedProducts
+WHERE rn <= 100;

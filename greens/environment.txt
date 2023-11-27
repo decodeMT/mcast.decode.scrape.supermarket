@@ -2,12 +2,13 @@ USE CMD
 
 pip install virtualenv
 python -m pip install --upgrade pip
-python -m virtualenv --python=3.10 star
-.\star\Scripts\activate
+python -m virtualenv --python=3.10 supermarket-env
+.\supermarket-env\Scripts\activate
 pip install jupyter
-ipython kernel install --name "star-kernel" --user
+ipython kernel install --name "supermarket-kernel" --user
 pip install pandas
 pip install bs4
 pip install sqlalchemy psycopg2-binary
+pip install selenium
 python -m pip freeze > requirements.txt
-.\star\Scripts\deactivate
+.\supermarket-env\Scripts\deactivate

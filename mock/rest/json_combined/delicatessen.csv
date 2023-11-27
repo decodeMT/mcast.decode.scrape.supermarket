@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19754,Salted Anchovies,37.8,37.8,1.0,kg,True,False,,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+19756,"Cheddar With Apple, Cinnamon And Raisin",26.0,26.0,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19762,Maltese Smoked Sausage,8.61,8.61,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19769,Fiorucci Salame Ungherese,16.28,16.28,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19782,Beaufort Savoie,49.98,49.98,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19798,Galbanone,16.43,16.43,1.0,kg,True,False,Italia,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19802,Latteria Montello Stracchino Nonno Nanni 125g,3.52,3.85,0.13,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen; Latteria Montello
+19812,Bo F Di Castag Cheese,68.25,68.25,1.0,p,True,False,,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+19838,Fior Di Vita Cheddar Garlic & Chive 120g,2.47,2.55,0.12,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Fior Di Vita; Delicatessen
+19841,Zanetti Grana Flakes Cut 100g,2.5,2.59,0.1,kg,False,False,,delicatessen,Zinetti; Cheeses; Deli Cheese; Delicatessen
+19869,Inalpi Fettine Grana Padano 150g,1.58,2.0,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Inalpi; Delicatessen
+19885,Basiron Pesto Verde Cheese Slices 150g,3.37,3.5,0.15,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen
+19887,Lardo Alle Erbe,15.62,15.62,1.0,p,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19894,Negroni Golosino 3 X 250g,5.9,6.6,0.25,kg,False,False,,delicatessen,Negroni; Chilled Ham and Salami; Ham and Salami; Delicatessen
+19905,Bayernland Edam Sliced 140g,2.33,2.35,0.14,kg,False,False,,delicatessen,Bayernland; Cheeses; Refrigerated; Cheese Slices; Delicatessen
+19949,Coombe Castle Lancashire 200g,3.23,3.41,0.2,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen
+19957,Lucky Cow Combi 200g,1.5,1.55,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen
+19971,Vonk Cheese Slices Catering 800g,6.99,7.45,0.8,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Vonk; Delicatessen
+19972,Lacey Light,20.53,20.53,1.0,kg,True,False,Finland,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19979,Ambrosi Pecorino Romano 200g,7.15,7.6,0.2,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese
+20015,Vergeer Pasta Cheese 150g,2.67,2.69,0.15,kg,False,False,,delicatessen,Vergeer; Cheeses; Refrigerated; Cheese Slices; Delicatessen
+20025,Proscuitto San Daniele Friulano,30.24,30.24,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20029,Prosciutto Cotto With Herbs,20.95,20.95,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20036,Ambrosi Pecorino Romano Fresh Grated 100g,4.57,4.85,0.1,kg,False,False,,delicatessen,Cheeses; Refrigerated; Parmessan; Delicatessen
+20040,Ile De France Tartare Cote D'azur 100g,3.99,4.2,0.1,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese
+20046,Glenstal Extra Mature Cheddar 200g,4.1,4.25,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Delicatessen
+20054,Galbani.dolcelatte X150g,3.62,4.25,0.15,kg,False,False,,delicatessen,Mozzarella; Cheeses; Galbani; Refrigerated; Delicatessen
+20064,Porminho Sandwich Ham 98% Low Fat,6.98,6.98,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20075,Vio Creamy Garlic & Herbs 150g,3.13,3.3,0.15,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese; VIOLIFE
+20077,Bontafette Petto Di Tacchino Arrosto M&c 60gr,1.21,1.34,0.06,kg,False,False,,delicatessen,Chilled Ham and Salami; Ham and Salami; Delicatessen
+20099,Square Blue Cheese,14.49,14.49,1.0,kg,True,False,Denmark,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20137,Chamois Dor Cheese,25.2,25.2,1.0,kg,True,False,Italia,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20138,Gardani Crudo 18 Months,28.09,28.09,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20162,Creamy Goat Cheese  With Honey,30.99,30.99,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20163,Kolios Feta 150g,3.19,3.29,0.15,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen; Kolios
+20195,Auricchio Wedge Granapadano 200g,5.41,5.49,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Ricotta and Cottage cheese; Delicatessen; Auricchio
+20258,Fior Di Vita Edam Cheese Slices 150g,2.27,2.29,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20268,Montagna Nduja Piccante,22.93,22.93,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20276,Fior Di Vita Mozzarella Cheese Slices 150g,2.57,2.59,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20325,Babybel Mini Rolls 85g,3.95,3.99,0.09,kg,False,False,,delicatessen,Cheeses; Babybel; Delicatessen; Other Types of Cheese
+20343,Delta Feta Cheese Block 200gr,3.75,4.0,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen
+20357,Jolly Square Ham,6.5,6.5,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20370,Snowdonia Black Bomber,31.92,31.92,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20371,Rana Ravioli Formaggio 400g,5.39,5.49,0.4,kg,False,False,,delicatessen,Rana; Fresh Pasta; Delicatessen
+20391,Snowdonia Truffle,39.38,39.38,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20404,Lardo Di Colonnata,36.75,36.75,1.0,kg,True,False,Italia,delicatessen,Cheeses; Refrigerated; Prepacked Cheese; Delicatessen
+20423,Delice Des Cremiers,31.45,31.45,1.0,kg,True,False,France,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20479,Babybel Mini 120g,3.95,3.99,0.12,kg,False,False,,delicatessen,Cheeses; Babybel; Delicatessen; Other Types of Cheese
+20515,Comte Trad Emot,32.22,32.22,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20544,Basiron Mixed Nuts,17.17,17.17,1.0,kg,True,False,Netherlands,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20585,Emborg Red Cheddar 200g,3.84,3.99,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Delicatessen; Emborg
+20608,Reny Picot Mozzarella Shredded 150g,2.9,3.08,0.15,kg,False,False,,delicatessen,Mozzarella; Cheeses; Refrigerated; Delicatessen; Reny Picot
+20612,Bigilla,7.88,7.88,1.0,kg,True,False,Malta,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+20617,Auricchio Wedge Parmegiano Reggiano 200g,6.81,6.99,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Parmessan; Delicatessen; Auricchio
+20623,Brie Goat Cheese,32.13,32.13,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20633,Benna Rikotta 250g,1.95,1.95,0.25,kg,False,False,,delicatessen,Benna; Cheeses; Refrigerated; Ricotta and Cottage cheese; Delicatessen
+20643,Galbani Mozzarella Di Bufala 125g,3.72,3.75,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; Galbani; Refrigerated; Delicatessen
+20644,Manchego Dop Cheese,44.95,44.95,1.0,kg,True,False,Spain,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20673,Hanini Fresh Goat Gbejniet X2,2.69,2.79,0.25,kg,False,False,,delicatessen,Hanini; Cheeses; Refrigerated; Delicatessen; Goats Cheese
+20683,Dodoni Feta  In Oil And Oregano 150g,5.37,5.45,0.15,kg,False,False,,delicatessen,Dodoni; Cheeses; Feta Cheese; Delicatessen
+20685,Trevalli Formaggio Misto Noci 180g,3.56,3.99,0.18,kg,False,False,,delicatessen,Trevalli; Cheeses; Delicatessen; Other Types of Cheese
+20694,Auricchio Mozzarella Bufala 125g,3.17,3.25,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; Refrigerated; Delicatessen; Auricchio
+20703,La Contadina Mozzarella Di Bufala Lacto Free 125g,3.19,3.27,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; La Contadina; Refrigerated; Delicatessen
+20704,Old Irish Cheese Luck'o,26.2,26.2,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20713,Fior Di Vita Havarti Cheese Slices 150g,2.86,2.99,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20735,Olympus Feta Cheese 200g,3.9,3.95,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Olympus; Delicatessen
+20740,Cacio Cavallo Fresco,42.0,42.0,1.0,p,True,False,Italia,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+20756,Gbejniet Moxxi Dry,23.8,23.8,1.0,kg,True,False,Malta,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20775,Kerrygold Mild White Cheddar 200g,3.69,3.79,0.2,kg,False,False,,delicatessen,Cheeses; Kerrygold; Refrigerated; Cheddar; Delicatessen
+20803,Mortadella Tartufo,20.97,20.97,1.0,p,True,False,Italia,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+20812,Arla Apetina Feta In Oil 275g,3.76,3.99,0.28,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Arla; Delicatessen
+20817,Sant Dalmai Chorizo Extra 100g,2.71,2.75,0.1,kg,False,False,,delicatessen,Chilled Ham and Salami; Ham and Salami; Delicatessen; Sant Dalmai
+20832,Negroni San Daniele Prosciutto Crudo 80g,4.65,4.72,1.0,p,False,False,,delicatessen,Negroni; Chilled Ham and Salami; Ham and Salami; Delicatessen
+20851,Chocolate And Orange Cheese,29.35,29.35,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20860,Hanini Fresh Cow  2x100g,2.49,2.59,0.2,kg,False,False,,delicatessen,Hanini; Cheeses; Delicatessen; Other Types of Cheese
+20894,Elite Deli To Go Shredded White Cheddar 150g,2.61,2.65,0.15,kg,False,False,,delicatessen,Elite; Cheeses; Deli Cheese; Delicatessen
+20919,Gouda Cheese Lactose Free,18.11,18.11,1.0,kg,True,False,Netherlands,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20931,Morbier Cheese,31.5,31.5,1.0,p,True,False,France,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+20937,Chicken Roll ( On Offer ),11.5,11.5,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20969,Stuffed Vine Leaves,21.78,21.78,1.0,kg,True,False,Greece,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen

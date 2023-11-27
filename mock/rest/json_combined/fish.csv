@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+20610,Nettuno Mussel Meat 500g,4.91,4.95,0.5,kg,False,False,,fish,Frozen Fish; Fish
+20636,Tuna With Herbs - Gourmet,19.0,19.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20675,Homemade Smoked Salmon - Fish,36.5,36.5,1.0,kg,True,False,Norway,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20678,Frosta Bocconcini Di Merluzzo 280g,4.96,4.99,0.28,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+20682,Findus Merluzzo Grigliato Pomodoro 250g,5.99,6.5,0.25,kg,False,False,,fish,Frozen Fish; Fish; Findus
+20757,Thai Tapas Prawn Gyoza 1kg,17.8,19.0,1.0,kg,False,False,,fish,Frozen Fish; Fish
+20759,Vongole Sgusciate Precotte Congelate 250gr,3.99,5.0,0.25,kg,False,False,,fish,Frozen Fish; Fish
+20771,Salmon Carpaccio Sashimi  - Fish,30.0,30.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20831,Arbi Ragu Di Polpo 220g,5.89,5.99,0.22,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+20850,Sushi Roll Platter Set A,7.5,7.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20889,Gallina -gurnard(local) (gourmet),29.0,29.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20958,Tuna Belly,5.5,5.5,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21047,Findus Crispy Cod Fillet 360g,7.99,8.49,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21124,Frosta Croccanti Agli Spinaci 220g,3.99,4.73,0.22,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+21137,Mussels Fish,5.5,5.5,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+21193,Donegal Catch Battered Cod Fillets 400g,11.75,11.99,0.4,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+21225,Gurbell-meagre  ( Local ) - Fish,12.0,12.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21254,Frozen Cooked Squid Tentacles 1kg,10.9,11.51,0.0,,False,False,,fish,Frozen Fish; Fish
+21307,Frozen Fish Burgers,4.9,4.9,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Breaded Fish; Refrigerated
+21373,"Highland Harvest Smoked Salmon, 200g",9.79,9.99,0.2,kg,False,False,,fish,Frozen Fish; Fish; High Harvest
+21379,Salmon Sweet Chilli &  Lime & Corriander - Fish,22.0,22.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+21499,Findus Croccole 2pcs 216g,7.95,9.32,0.22,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21520,Cippulazza ( Scorpion Fish ) ( Local ) - Fish,26.0,26.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21808,Vici Salmon Steaks 2x125g,8.9,8.98,2.0,p,False,False,,fish,Vici; Frozen Fish; Fish
+21831,La Ciurma Filetti Di Meluzzo 640g,6.99,8.0,0.64,kg,False,False,,fish,Frozen Fish; Fish; La Ciurma
+21841,Findus Croccole Con Omega 3pcs 200g,7.95,9.32,0.2,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21910,Frosta Bastoncini Salmone 10 X 300g,6.82,7.5,0.3,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+21925,Frozen Neonati,16.0,16.0,1.0,kg,True,False,China,fish,Frozen Fish; Fish; Refrigerated
+21977,Sushi Mix Platter Set F,8.5,8.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+22005,Nettuno Superior Seafood 500g,6.29,6.45,0.5,kg,False,False,,fish,Frozen Fish; Fish
+22033,Xxl Giant Prawns,41.95,41.95,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+22098,Natural Cool Organic Mangos 300g,4.95,5.16,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22117,Donegal Catching 2 Xl Battered Fish Fillets 300g,5.94,5.99,0.3,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+22155,La Ciurma Shrimps 500g,9.52,9.69,0.5,kg,False,False,,fish,Frozen Fish; Fish; La Ciurma
+22269,Bird's Eye 4 Fish Fillets In Batter 400g,6.65,7.38,0.4,kg,False,False,,fish,Frozen Fish; Fish; Bird'S Eye
+22284,Youngs  Flipper Dippers 250g,3.35,3.49,0.25,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+22413,Genepesca Tentazione Cozze 300g,4.95,4.98,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22444,Donregal Catch Fish Nuggets 250g,4.68,4.99,0.25,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+22476,Findus Fish & Crispy Fillet 480g,7.79,7.99,0.48,kg,False,False,,fish,Frozen Fish; Fish; Findus
+22489,Natural Cool Organic Blueberries 300g,5.24,5.46,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22535,Arbi Condiscoglio Pomodoro 450g,5.89,5.99,0.45,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+22568,Dott Steak-wreckfish ( Local ) - Fish,29.95,29.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+22635,Lobster (local) - Fish,39.0,39.0,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+22747,Condipresto Frozen Ready Made Mixed Seafood Sauce 450g,5.19,5.99,0.45,kg,False,False,,fish,Frozen Fish; Fish; Condipresto
+22784,King Prawns Rossi 03 ( Local ) - Fish,48.5,48.5,1.0,kg,True,False,,fish,Frozen Fish; Fish; Refrigerated
+22806,Seafood Mix,8.95,8.95,1.0,kg,True,False,Malta,fish,Frozen Fish; Fish; Refrigerated
+22823,Findus Nuggets Di Merluzzo D'alaska 245g,5.89,6.36,0.25,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23111,Findus Filetti Di Merluzzo 360g,8.99,10.57,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23115,Findus Merluzzo Gratin.sz Gluti 380g,7.99,8.45,0.38,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23127,Pagell -pandora  (red Snapper) - Fish,14.95,14.95,1.0,kg,True,False,Greece,fish,Fish; Fresh Fish; Refrigerated; Foreign Fresh Fish
+23199,Pork Spring Roll X12,3.95,3.95,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23262,Youngs 10 Omega 3 Fish Finger 250g,3.55,3.69,0.25,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+23290,Arbi Condivongola 450g,6.35,6.49,0.45,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+23332,Homemade Smoked Acciola,37.75,37.75,1.0,p,True,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23360,Findus Croustibat Fish Fingers 12 Pack 360g,5.75,5.99,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23415,Vici Breaded Maxi Shrimps 300g,3.95,4.22,0.3,kg,False,False,,fish,Vici; Frozen Fish; Fish
+23441,Cuttle Fish(sicc) With Herbs,19.95,19.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23464,Fidagel Calamari 10/15 500g,8.99,10.79,0.5,kg,False,False,,fish,Frozen Fish; Fish
+23585,Planets Pride Vannamei Shrimp 750g,13.12,14.75,0.75,kg,False,False,,fish,Frozen Fish; Fish
+23637,Salmon Nigiri (g),5.95,5.95,1.0,kg,False,False,,fish,Fish; Ready Made Fish; Fresh Fish; Refrigerated
+23766,Seabass (spnotta) With Herbs- Gourmet,10.95,10.95,1.0,kg,True,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23871,Planets Pride Octupus Baby 800g,13.63,15.4,0.8,kg,False,False,,fish,Frozen Fish; Fish
+23909,Norlax Smoked Salmon 200g,9.99,10.96,0.2,kg,False,False,,fish,Frozen Fish; Fish; Norlax
+23965,Mare Pronto The Fish Burger Tonno 170gr,4.99,5.82,0.17,kg,False,False,,fish,Frozen Fish; Fish
+23991,Tragni-weaver,19.95,19.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+23992,Kirkland Signature Tempura Shrimp 30 Ct 1.07kg,31.34,35.0,1.07,kg,False,False,,fish,Frozen Fish; Fish; Kirkland
+24061,Ittitalia Ocean Catch Fish Fingers 300g,2.89,3.09,0.3,kg,False,False,,fish,Frozen Fish; Fish; Ittitalia
+24165,Findus Fish Fingers 14pcs 350g,4.86,4.99,0.35,kg,False,False,,fish,Frozen Fish; Fish; Findus
+24196,Youngs 4 Battered Cod Fillet 440g,9.79,9.99,0.44,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+24201,Wiva Mare Sugo A/vongole Mare 350g,4.99,6.0,0.35,kg,False,False,,fish,Frozen Fish; Fish
+24282,Planets Pride Bao Buns Folded Black 990g 22pcs,15.22,17.0,0.99,kg,False,False,,fish,Frozen Fish; Fish
+24440,Youngs 4 Battered Fish Fillet 400g,6.99,7.25,0.4,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+24553,Donegal Catach Cider Batterd Haddock 270g,6.75,6.99,0.27,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+24598,Smoked Erringi,14.45,14.45,1.0,kg,True,False,Malta,fish,Fish; Ready Made Fish; Fresh Fish; Refrigerated
+24750,Wakame Salad - Fish,25.0,25.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+24751,Rizzi,19.5,19.5,1.0,p,False,False,Malta,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+24824,Sushi Mix Platter Set B,8.5,8.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+24893,Klaas Puul Seafood Mix 500g,5.52,5.85,0.5,kg,False,False,,fish,Frozen Fish; Fish; Kolios
+25028,Wiva Mare Condipresto Pronto Scoglio Pomodoro,4.99,6.0,1.0,p,False,False,,fish,Frozen Fish; Fish
+25044,Mare Pronto The Fish Burger Salmone 170gr,5.99,7.5,0.17,kg,False,False,,fish,Frozen Fish; Fish

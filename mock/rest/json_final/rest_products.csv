@@ -1,0 +1,803 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+20886,American Ranch Breaded Chicken Goujons 500g,4.25,4.75,0.0,,False,False,,butcher,Refrigerated; Butcher; Frozen Chicken; Chicken
+20893,Mortadella Sausage,14.18,14.18,1.0,kg,True,False,Malta,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+20912,New Zealand Lamb French Rack,42.0,42.0,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+20966,Local Pork Chops,7.64,7.64,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+21023,Frozen Sliced Beef,11.25,11.25,1.0,kg,True,False,Ireland,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21050,New Zealand Boneless Shoulder,23.05,23.05,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21103,Local Chick Wings Tom/herbs,6.95,6.95,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21131,New Hot Cajun Sausage,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+21179,Fresh Whole Turkey,7.88,7.88,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+21221,Local Chick Drumsticks Tom/herbs,7.5,7.5,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21262,Amadori Kebab 350g,3.99,4.8,0.35,kg,False,False,,butcher,Beef; Frozen Beef; Refrigerated; Butcher; Amadori
+21370,Osgrow Camel Steak,75.0,75.0,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+21380,Local Capon,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+21390,"Scotch Aberdeen 
+Angus 
+Ox Fillets",59.5,59.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21391,Chicken Thighs Indian Mystery,10.5,10.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21546,Fresh Imported Leg Of Lamb,24.9,24.9,1.0,kg,True,False,United Kingdom,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21565,Veal Standing Rib,30.5,30.5,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+21597,Chicken Legs Argentina Fire,6.0,6.0,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+21645,Lamb Quarters,18.4,18.4,1.0,kg,True,False,Italia,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+21919,Angus Beef Burger,11.8,11.8,0.1,kg,True,False,Malta,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22030,Classic Lincs Pork Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22114,Fresh Local Capons,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22127,Pork & Chive Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22169,Carvery Rib Scottona,31.2,31.2,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22187,Italian Beef Fillet,48.29,48.29,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22221,Fresh Whole Chicken,4.5,4.5,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22245,New Zealand Leg Of Lamb,14.5,14.5,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+22283,Imported Milk Fed Veal Topside,24.99,24.99,1.0,kg,True,False,Netherlands,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22351,Amadori Chicken Nuggets 300g,3.68,4.72,0.3,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22381,Amadori Le Birbe (chicken) Pops 250gr,3.14,3.41,0.25,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22402,Amadori Chicken With Smoked Paprika 500g,5.2,5.78,0.5,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22521,Fresh Imported Lamb Fillets,29.99,29.99,1.0,kg,True,False,Australia,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+22529,New Mexican Chilli Sausage,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22586,Mazzit Ta' Malta,14.7,14.7,1.0,kg,True,False,Malta,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22703,Fresh Turkey Wings,4.75,4.75,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+22726,Chicken Shish Smokey Bbq,13.5,13.5,1.0,kg,True,False,China,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22746,Uruguay 200 Day Ribeye Grass Fed,32.5,32.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22813,Chicken Breast Cubes,9.5,9.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+22832,Rabbit Shoulder,10.0,10.0,1.0,kg,True,False,,butcher,Rabbit; Fresh Rabbit; Refrigerated; Butcher
+22855,Whole Pheasants,14.95,14.95,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+22870,Local Pork Hocks,4.99,4.99,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+22898,Amadori Qualita 10+ Fesa Di Tacchino A Fette 400g,8.66,8.66,0.4,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+22937,Pork & Mustard Seed Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+22960,Scottona Fillet,47.9,47.9,1.0,kg,True,False,Italia,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+22962,Irish T-bone,35.2,35.2,1.0,kg,True,False,Ireland,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23012,Amadori Cordon Bleu 250g,3.68,4.72,0.25,p,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23025,Amadori Buona Domenica Ricotta & Spinach 700g,8.35,8.35,0.7,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23026,Pork Celebration Sausages,8.99,8.99,1.0,kg,True,False,,butcher,Sausages; Refrigerated; Butcher; Fresh Sausages
+23108,New Zealand Lamb Tenderloins,37.39,37.39,1.0,kg,True,False,,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+23140,Amadori Buona Domenica 700g,8.35,8.35,0.7,kg,False,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher; Amadori
+23144,Lean Beef Mince,10.65,10.65,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23149,Local Chick Breast Hot/spicy,10.5,10.5,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23263,Stuffed Chicken,14.95,14.95,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23435,Involtini Di Pollo X4,14.74,14.74,1.0,kg,True,False,Italia,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+23445,Amadori Tenders Chicken 280g,4.99,5.4,0.28,kg,False,False,,butcher,Refrigerated; Butcher; Frozen Chicken; Amadori; Chicken
+23559,Amadori Gran Burger 280g,3.68,4.2,0.28,kg,False,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Amadori; Chicken
+23567,Fresh Local Chicken Necks,2.65,2.65,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23605,Chicken Drumsticks Mediterrne Herb,7.5,7.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23653,Scotch Marinated Steak,17.5,17.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+23723,Local Whole Chick Hot/spicy,5.7,5.7,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23732,Chicken Bones,1.0,1.0,1.0,kg,True,False,Italia,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23748,Fresh Imported Capons,5.5,5.5,1.0,kg,True,False,,butcher,Other Butcher Items; Refrigerated; Butcher; Othe Fresh Butcher Items
+23849,Local Chick Wings Bbq,6.95,6.95,1.0,kg,True,False,,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23919,Fresh Local Chicken Livers,4.6,4.6,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+23961,"Dafgards Swedish Meatballs, 500g",6.39,6.49,0.5,kg,False,False,,butcher,Beef; Frozen Beef; Refrigerated; Butcher; Familjen Dafgard
+23974,Amadori Salsiccia Di Tacchino E Pollo (sausgaes) 650g,5.94,6.3,0.65,kg,False,False,,butcher,Fixed Price Prepack Sausages; Sausages; Refrigerated; Butcher; Amadori
+23995,Italian Rib Beef,13.49,13.49,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24018,Beef Bones,4.2,4.2,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24033,Local Pork Spare Ribs,11.96,11.96,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24159,Fresh Turkey Necks,4.57,4.57,1.0,kg,True,False,,butcher,Turkey; Refrigerated; Fresh Turkey; Butcher
+24163,Usda Heart Rump,22.5,22.5,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24307,Chicken Thighs Smokey Bbq,10.5,10.5,1.0,kg,True,False,Malta,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+24323,Usda Aged Sirlow,63.98,63.98,1.0,kg,True,False,USA,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24358,Pork Rib Roast,9.99,9.99,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24460,Fresh Lamb Belly Roll,18.65,18.65,1.0,kg,True,False,United Kingdom,butcher,Refrigerated; Butcher; Fresh Lamb; Lamb
+24466,Chicken Shish Indian Mystery,13.5,13.5,1.0,kg,True,False,China,butcher,Fresh Chicken; Refrigerated; Butcher; Chicken
+24591,Local Pork Stuffed Neck,10.5,10.5,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+24717,Pork & Beef Mince,9.5,9.5,1.0,kg,True,False,Malta,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24730,Italian Beef Rump Steak,14.95,14.95,1.0,kg,True,False,,butcher,Fresh Beef; Beef; Refrigerated; Butcher
+24786,Smoked Spare Ribs,12.5,12.5,1.0,kg,True,False,,butcher,Fresh Pork; Refrigerated; Butcher; Pork
+19752,Cheeson Soft Cheese Full Fat 150g,2.55,2.6,0.15,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables
+19761,Stuffer Da Bere Lattosio Banana 500g,2.36,2.75,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Stuffer; Yoghurts and Desserts
+19778,Noel Fuet Vela Extra 170g,3.36,3.63,0.17,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+19795,Cheese & Sun-dried Tomatoes 200g,3.85,3.9,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Camel Brand; Refrigerated; Dips
+19796,Cameo Muu Muu Vaniglia X4,3.99,4.5,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Cameo; Yoghurts and Desserts
+19808,Stuffer Yogurt Latosio  Banana 0.1% 125g,1.65,2.0,0.13,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Stuffer; Dairy Free Porducts
+19856,Espana Chorizo Sarta Extra Picante 200g,2.99,3.5,0.2,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+19860,Alpha Gefsi Cream Cheese Feta & Greek Yogurt Speard 200g,3.09,3.15,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+19872,Fiorucci Rostello Afftettato 130g,5.99,6.09,0.13,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Fiorucci; Refrigerated
+19906,Parmalat Chef Panna Cremosa E Omogenea 200ml,1.95,2.28,0.2,l,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+19942,Danone Hipro Cup Mirtilllo 160g,1.91,1.99,0.16,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+19952,Arizona Half & Half Iced Tea Tropical 680ml,1.89,2.5,0.68,l,False,True,,chilledanddairy,Chilled and Dairy; Chilled Beverages; Arizona; Refrigerated
+19955,Alpha Gefsi Spicy Cheese Dip With Feta 200g,2.74,2.8,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+19967,Dairymaid Prm.spread 454g,3.29,3.4,500.0,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+19975,Schar Veggie Pizza Cereali 390g,5.8,6.45,0.39,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Schar; Refrigerated; Chilled Gluten Free Products 
+20013,Arla Cream Cheese Pineapple 200g,2.52,2.6,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Arla
+20023,Balut Eggs X6,1.72,1.94,6.0,p,False,False,,chilledanddairy,Chilled and Dairy; Milk and Eggs; Refrigerated; Eggs; Ballut
+20055,Philadelphia Fantasie Salmone X6,3.95,4.5,6.0,p,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Philadelphia
+20056,Muller Yogurt Di Crema Ciliegia 250g,1.56,1.75,1.0,p,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20059,Bluecheese Dip,11.55,11.55,1.0,kg,True,False,Malta,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20060,Quescrem Spread Cheese With Garlic 200g,3.35,3.38,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables
+20066,Steril Yoghurt Maxi Fragola 500g,1.94,1.99,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Sterilgarda; Refrigerated; Yoghurts and Desserts
+20097,Muller Bianco Seto Mirtilli E Vanila 2 X 250g,1.54,1.76,0.25,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20109,Artichokes Dip,11.55,11.55,1.0,kg,True,False,Malta,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20117,Vitalite Standard 500g,4.13,4.19,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Vitalite
+20132,Espana Salchichon Extra 100g,1.84,2.5,0.1,kg,False,False,,chilledanddairy,Chilled Meat; Chilled Foods; Chilled and Dairy; Refrigerated
+20134,"Berchtesgadener Land Alpenzwerg Organic-chocolate-milk 1,5% 250g",1.2,1.22,0.25,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20185,Alpha Gefsi Tzatziki Dip 200g,2.38,2.5,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20198,Halta Margarina Vegetale 250g,1.03,1.35,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Halta
+20209,Delta Natural Greek Yog 10% 150g,1.67,1.69,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Delta; Yoghurts and Desserts
+20211,Delta Greek Yogurt 0% Cherry 150g,1.72,1.75,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20216,Zott Monte Single Pot 150g,1.55,1.59,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Monte; Yoghurts and Desserts
+20219,Wuber Frankfuter 200gr,2.99,3.7,0.2,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Sausages; Refrigerated
+20244,President Unsalted Butter 250g,4.82,5.48,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; President
+20256,Hanini Creamylight Cooking Cream,1.24,1.28,0.16,kg,False,False,,chilledanddairy,Hanini; Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+20260,Discus Coleslaw 250g,2.52,2.52,0.25,kg,False,False,,chilledanddairy,Discus; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20263,Rudolfs Joyful Bio Banana Strawberry Smoothie 260ml,2.61,2.72,0.26,l,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20275,Philadelphia Cottage Cheese 200g,3.3,3.39,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Pates And Related Spreadables; Philadelphia
+20287,Zott Protein Pudding Caramel 200g,1.43,1.49,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Zott; Refrigerated; Yoghurts and Desserts
+20292,Cucina D'oro Uht Cooking Cream 200ml,1.08,1.09,0.2,l,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams
+20317,I Can't Believe It's Not Butter Spread 500g,2.99,3.59,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; I Can'T Believe It'S Not Butter
+20328,Delta Greek Yogurt Coconut Choc  150g,1.72,1.75,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20351,Lurpak Butter Latte Fresco 10 X 100g,2.59,3.11,0.1,kg,False,False,,chilledanddairy,Butter; Lurpak; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+20355,Dany Original Chicken Luncheonmeat 300g,2.65,2.79,0.3,kg,False,False,,chilledanddairy,Chilled and Dairy; Mortadella and Luncheon Meat; Chilled Luncheonmeat/Mortadella; Dany
+20415,Olympus Drink Kefir Plain 1% 500ml,1.65,1.74,0.5,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Olympus; Yoghurts and Desserts
+20426,Cranberry Skin Pate,39.99,39.99,1.0,kg,True,False,Belgium,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20427,Muller Dessert Proteico Vaniglia Panna 200g,2.63,3.25,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20440,Berchtesgadener Land Bio-fruit Quark Strawberry 200g,1.76,1.8,0.2,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Organic Weighted
+20480,Fage Fruyo Coconut 1.3% 150g,1.87,1.92,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Fage; Refrigerated; Yoghurts and Desserts
+20496,Danone Activia 0.1% Pesca 4x125g,3.5,3.65,0.13,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20499,Stuffer Dessert Proteico Vaniglia 200g,1.95,2.45,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Stuffer; Yoghurts and Desserts
+20527,Kolios Hercules High Protein Greek Yogurt 0% 200g,1.99,2.09,0.2,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Kolios; Yoghurts and Desserts
+20542,Danone Hipro Mango 300g,2.82,2.95,0.3,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20545,Zott Jogobella Panna Cotta 150g,0.65,0.69,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Zott; Refrigerated; Yoghurts and Desserts
+20546,Valsoia Bonta Salute Yosoi Vaniglia 2 X 125g,2.25,2.4,0.25,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Valsoia; Yoghurts and Desserts
+20556,Pascual Flavoured Vanilla 4x125g,2.64,2.8,0.5,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Pascual; Yoghurts and Desserts
+20565,Devon Double Cream 170g,4.43,4.5,0.17,kg,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams; Devon
+20573,Lurpak Spreadable Light 250g,4.54,4.55,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated
+20574,Vegan Deli Chives 100g,3.39,3.59,0.1,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Refrigerated; Chilled Vegetarian Products
+20587,Montare D'oro Spray  241ml,2.45,2.49,0.24,l,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Refrigerated
+20592,Camel Brand Salami Dip 230g,3.69,3.75,0.23,kg,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Camel Brand; Refrigerated
+20594,Remia Sunflower Margerine 500g + 250g Free,4.41,4.49,0.5,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Remia
+20600,Pascual Yogikids Duo Chocolate 2x80g,2.85,2.9,0.16,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Pascual; Yoghurts and Desserts
+20607,Tulip Pancetta A Cubetti 100g,2.24,2.29,0.1,kg,False,False,,chilledanddairy,Tulip; Chilled Foods; Chilled and Dairy; Chilled Bacon
+20622,Pinsa Cuore Italiano Integrale 460gr,6.25,7.0,0.23,l,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Pasta; Refrigerated
+20626,Divella Tagliatelle Uovo 250g,1.52,2.0,0.25,kg,False,False,,chilledanddairy,Chilled Foods; Chilled and Dairy; Chilled Pasta; Divella; Refrigerated
+20630,Danone Actimel Fragola X6,4.26,4.7,6.0,p,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20632,Mevgal Autentic Greek Yogurt 0% Fat 900g,5.99,6.15,0.9,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Mevgal; Refrigerated; Yoghurts and Desserts
+20638,Milk Pro Protein Source Snack Fresco Al Cacao 4x40gr,6.5,8.0,0.16,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20650,Camel Brand Capers  X 300g,2.75,2.8,0.3,kg,False,False,,chilledanddairy,Chilled and Dairy; Other Chilled; Camel Brand; Refrigerated
+20710,President Whipping Cream 500ml,6.69,6.75,0.5,kg,False,False,,chilledanddairy,Chilled and Dairy; Fresh Cream; Refrigerated; Creams; President
+20716,Discus Danish White Cheese With Chilli,1.4,1.4,1.0,p,False,False,,chilledanddairy,Discus; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Dips
+20732,Muller Mix Pistacchios Mandorle 150g,1.52,1.55,0.15,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Muller; Refrigerated; Yoghurts and Desserts
+20763,Parmalat Kyr Fragola 2x125gr,1.99,2.5,0.13,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts; Parmalat
+20768,Danone Danacol Fragola 8x100ml,7.99,8.49,0.1,l,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Danone; Yoghurts and Desserts
+20804,Regilait Frappe Latte Caffe 250ml,2.27,2.5,0.25,l,False,True,,chilledanddairy,Regilait; Chilled and Dairy; Chilled Beverages; Refrigerated
+20845,Milk Snack Al Latte 4x28g,1.99,2.19,0.03,kg,False,False,,chilledanddairy,Yoghurt And Dessert; Chilled and Dairy; Refrigerated; Yoghurts and Desserts
+20895,Country Life Butter Salted 250g,6.29,6.41,0.25,kg,False,False,,chilledanddairy,Butter; Butter Dips and Spreadables; Chilled and Dairy; Refrigerated; Countre
+20902,Leoncini Pancetta Affumicata Cubetti 2x50g,2.27,2.4,0.1,kg,False,False,,chilledanddairy,Leoncini; Chilled Foods; Chilled and Dairy; Chilled Bacon
+20921,Josefa Blue Cheese Dip  195g,2.19,2.85,0.2,kg,False,False,,chilledanddairy,Butter Dips and Spreadables; Chilled and Dairy; Josefa; Refrigerated; Dips
+19569,The Jelly Bean Factory 36 Huge Flavour Gourmet Popabean Can 100g,3.48,3.71,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; The Jelly Bean Factory; Sweets
+19578,Barilla Penne Rigate Integrale 500g,1.64,1.95,0.5,kg,False,False,Italia,confectionery,White Pasta; Barilla; Confectionery; Pasta Rice and Couscous
+19590,Mackie's Sea Salt & Vinegar 150g,2.38,2.44,0.15,kg,False,False,,confectionery,Mackies; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19601,Mr Riley Cheesy Rings 23g,0.8,0.8,0.02,kg,False,False,Italia,confectionery,Riley'S; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19608,Rummo Fettuccine All Uovo 250g,1.79,2.3,0.25,kg,False,False,Italia,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+19612,Kettle Chips Thai Sweet Chilli 130g,2.66,2.89,0.13,kg,False,False,,confectionery,Kettle Chips; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19617,Rummo Spaghettini 500g,1.15,1.8,0.5,kg,False,False,,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+19634,Valor 70% Dark Chocolate Orange Stevia 100g,2.36,2.45,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19645,Henderson & Sons Dip Guacamole 300g,2.98,3.5,0.3,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19655,Valor 70% Dark Chocolate Salt 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19668,Walkers Salt And Vinegar 32.5g,0.8,0.8,0.0,,False,False,United Kingdom,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19677,Relkon Egg My Little Pony Heart,1.42,1.5,0.01,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19681,Jolly Rancher Awesome Twosome Chews 184g,3.75,4.0,0.18,kg,False,False,,confectionery,JOLLY RANCHER; Chocolates and Sweets; Confectionery; Sweets
+19694,Polo Sugar Free 33.4g,0.82,0.82,0.03,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Polo
+19717,Alberto Poiatti Stelline 500g,0.85,1.24,0.5,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Poiatti
+19719,Chocolate & Mint,2.5,2.5,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19720,Dais Croissants Chocolate 8pk,2.25,2.71,1.0,p,False,False,,confectionery,Pastries and Prepacked Cakes; Dais; Croissants; Confectionery
+19724,Mister Free`d Vegan Tortilla Chips Cheese 135g,2.95,2.99,0.14,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19743,Jouyco Flurries Cocoa 120g,1.07,1.2,0.12,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19763,Pectol Eucalyptus 19.2g,0.85,0.85,0.02,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Pectol; Sweets
+19765,Walkers Quavers Cheese 20.5g,0.99,1.05,0.02,kg,False,False,United Kingdom,confectionery,Walkers; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19770,Dais Croissants Cream 8pk,2.25,2.71,1.0,p,False,False,,confectionery,Pastries and Prepacked Cakes; Dais; Croissants; Confectionery
+19775,Lindt Lindor Milk Balls 337g,10.8,12.0,0.34,kg,False,False,,confectionery,Chocolates and Sweets; Lindt; Confectionery; Chocolates
+19776,"La Molisana Linguine Bronzo N.6, 500g",1.08,1.65,0.5,kg,False,False,,confectionery,White Pasta; La Molisana; Confectionery; Pasta Rice and Couscous
+19780,Funlab Ice Pop Dippers 30g,0.98,1.35,0.03,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19815,Chupa Chups Lollipops,0.42,0.42,200.0,p,False,False,,confectionery,Chocolates and Sweets; Chupa Chups; Confectionery; Sweets
+19822,Cheese & Onion 32.5g,0.95,0.95,0.0,,False,False,United Kingdom,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19835,Elledi Double Wafer Lemon 125g,1.8,1.89,0.13,kg,False,False,Italia,confectionery,Elledi; Chocolates and Sweets; Confectionery; Wafers
+19842,Valor 70% Dark Chocolate Raspberry 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19845,Parfetti Morositas Liquirizia Senza Zucchero,1.12,1.15,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19847,Gusparo Roll Frutta 200g,1.54,1.69,0.2,kg,False,False,Italia,confectionery,Chocolates and Sweets; Gusparo; Confectionery; Wafers
+19861,Barilla Fusilli 98 1000g,2.15,2.55,1.0,kg,False,False,,confectionery,White Pasta; Barilla; Confectionery; Pasta Rice and Couscous
+19863,Meiji Hazelnut Yan Yan .44g,1.49,1.75,0.04,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19870,Cadbury Twirl 43g,0.94,1.0,0.04,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+19886,Cadbury Bournville 180g,3.51,3.75,0.18,kg,False,False,United Kingdom,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+19888,Agnesi Lasagne 500g,2.34,2.49,0.5,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Agnesi
+19914,Ritter Butter Biscuit 100g,1.95,1.95,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Ritter Sport; Confectionery; Chocolates
+19922,"Plain Sponge, 20cm",2.95,2.95,1.0,p,False,False,Malta,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19924,La Molisana Fettucine 5 500g,1.08,1.65,0.5,kg,False,False,Italia,confectionery,White Pasta; La Molisana; Confectionery; Pasta Rice and Couscous
+19926,Bebeto Ocean Park 80g,1.14,1.27,0.08,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19930,Pavesi Togo Cioccolato Classico 120g,2.95,3.5,0.12,kg,False,False,Italia,confectionery,Chocolates and Sweets; Pavesi; Confectionery; Chocolates
+19937,Lol Red Mix Strawberry 110g,1.58,1.75,20.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19940,Cavendish & Harvey Mixed Fruit Candies Decorative Jar 966g,7.53,7.85,0.97,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+19946,Jouyco Chocomallow 150g,1.45,1.75,0.15,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19950,Frit Ravich Wheels 85g,1.98,2.1,0.09,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Frit
+19953,Jannis Hazel Nut Bar 40g,1.45,1.49,0.04,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Jannis
+19965,Cavendish & Harvey Wine Gums 180g,1.9,1.98,0.18,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+19978,Cote D'or Wholenut 3+1free 4x45g,3.38,3.6,0.05,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cote D'Or
+19987,Jack Links Beef Jerky Biltong Clipstrip 25g,2.75,2.89,0.03,kg,False,False,,confectionery,Jack Link'S; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20004,Catch Dark Chocolate 50g,0.72,0.75,0.05,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates
+20026,Cachet Pear & Almonds Chocolate 100g,2.42,2.49,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cachet
+20043,Benn Candies Soft 250gr,1.5,1.85,0.25,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20044,Loacker Tortina Original 21g,0.6,0.6,0.02,kg,False,False,,confectionery,Chocolates and Sweets; Loacker; Confectionery; Wafers
+20067,"Muffins Vanilla, X 6",3.5,3.5,1.0,p,False,False,Malta,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20080,Pata Neutro Crisps 300g,4.15,4.39,0.3,kg,False,False,Italia,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Pata
+20089,Rummo Calamarata 500g,2.18,2.8,0.5,kg,False,False,,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+20100,De Cecco Polpa Di Pomodoro Corposa 690g,1.73,1.99,0.69,kg,False,False,,confectionery,De Cecco; White Pasta; Confectionery; Pasta Rice and Couscous
+20106,Pringles Small Hot Paprika  40g,1.05,1.1,0.04,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Pringles
+20112,M&ms Peanut Bag 165g,3.12,3.19,0.17,kg,False,False,,confectionery,Chocolates and Sweets; M&M'S; Confectionery; Chocolates
+20118,Buitoni Golden Rusks 300g,2.75,3.25,0.3,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Buitoni; Confectionery
+20120,Morato Nuvo Latte Classico X10,3.1,3.25,10.0,p,False,False,Italia,confectionery,Merendine; Morato; Confectionery
+20124,Milka Oreo 100g,1.86,1.99,0.1,kg,False,False,,confectionery,Milka; Chocolates and Sweets; Confectionery; Chocolates
+20125,M&ms Hollow Chocolate Santa 100g,3.45,3.6,0.1,kg,False,False,,confectionery,Chocolates and Sweets; M&M'S; Confectionery; Chocolates
+20133,Mackie's Tangy Tomato 150g,2.38,2.44,0.15,kg,False,False,,confectionery,Mackies; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20144,Alberto Poiatti Spaghetti 1kg,1.35,2.37,1.0,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Poiatti
+20167,Cachet Blackberry & Ginger Chocolate 100g,2.42,2.49,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cachet
+20168,Kuchenmeister Sponge Fruit Flan 200g,3.2,3.29,0.2,kg,False,False,,confectionery,Pastries and Prepacked Cakes; Kuchen Meister; Cakes; Confectionery
+20172,Cadbury Family Treat Size 222g,3.74,3.99,0.22,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+20229,Lemon Cheesecake 20cm,22.0,22.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20235,Valor 70% Dark Chocolate Caramel 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+20238,Chocolate Cake 24cm,28.0,28.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20239,Aunt Mabel's Muffin Carrot 100g,1.7,1.9,0.1,kg,False,False,,confectionery,Aunt Mabel'S; Confectionery; Muffins
+20255,San Carlo Chips Dore Classico Bar 45g,1.92,1.99,0.05,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20259,Cavendish & Harvey Tropical Selection Candies - Decorative Jar 300g,3.36,3.5,0.3,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+20261,Dietorelle Strawberry Gums 70g,2.66,2.73,0.07,kg,False,False,Italia,confectionery,Chocolates and Sweets; Confectionery; Sweets; Dietorelle
+20265,Hazelnuts & White Chocolate Crunch Gateaux 20cm,22.0,22.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20271,Mixed Assorted Sweets,0.55,0.55,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20289,Haribo Tropi Frutti Pack 200g,2.05,2.15,0.2,kg,False,False,,confectionery,Chocolates and Sweets; Haribo; Confectionery; Sweets
+20295,Cofresh Hummus Chips Sea Salt 135g,2.49,2.55,0.14,kg,False,False,,confectionery,Cofresh; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20306,Ritter Chopped Hazelnuts 100g,1.95,1.95,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Ritter Sport; Confectionery; Chocolates
+19754,Salted Anchovies,37.8,37.8,1.0,kg,True,False,,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+19756,"Cheddar With Apple, Cinnamon And Raisin",26.0,26.0,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19762,Maltese Smoked Sausage,8.61,8.61,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19769,Fiorucci Salame Ungherese,16.28,16.28,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19782,Beaufort Savoie,49.98,49.98,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19798,Galbanone,16.43,16.43,1.0,kg,True,False,Italia,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19802,Latteria Montello Stracchino Nonno Nanni 125g,3.52,3.85,0.13,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen; Latteria Montello
+19812,Bo F Di Castag Cheese,68.25,68.25,1.0,p,True,False,,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+19838,Fior Di Vita Cheddar Garlic & Chive 120g,2.47,2.55,0.12,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Fior Di Vita; Delicatessen
+19841,Zanetti Grana Flakes Cut 100g,2.5,2.59,0.1,kg,False,False,,delicatessen,Zinetti; Cheeses; Deli Cheese; Delicatessen
+19869,Inalpi Fettine Grana Padano 150g,1.58,2.0,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Inalpi; Delicatessen
+19885,Basiron Pesto Verde Cheese Slices 150g,3.37,3.5,0.15,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen
+19887,Lardo Alle Erbe,15.62,15.62,1.0,p,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+19894,Negroni Golosino 3 X 250g,5.9,6.6,0.25,kg,False,False,,delicatessen,Negroni; Chilled Ham and Salami; Ham and Salami; Delicatessen
+19905,Bayernland Edam Sliced 140g,2.33,2.35,0.14,kg,False,False,,delicatessen,Bayernland; Cheeses; Refrigerated; Cheese Slices; Delicatessen
+19949,Coombe Castle Lancashire 200g,3.23,3.41,0.2,kg,False,False,,delicatessen,Cheeses; Deli Cheese; Delicatessen
+19957,Lucky Cow Combi 200g,1.5,1.55,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen
+19971,Vonk Cheese Slices Catering 800g,6.99,7.45,0.8,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Vonk; Delicatessen
+19972,Lacey Light,20.53,20.53,1.0,kg,True,False,Finland,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+19979,Ambrosi Pecorino Romano 200g,7.15,7.6,0.2,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese
+20015,Vergeer Pasta Cheese 150g,2.67,2.69,0.15,kg,False,False,,delicatessen,Vergeer; Cheeses; Refrigerated; Cheese Slices; Delicatessen
+20025,Proscuitto San Daniele Friulano,30.24,30.24,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20029,Prosciutto Cotto With Herbs,20.95,20.95,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20036,Ambrosi Pecorino Romano Fresh Grated 100g,4.57,4.85,0.1,kg,False,False,,delicatessen,Cheeses; Refrigerated; Parmessan; Delicatessen
+20040,Ile De France Tartare Cote D'azur 100g,3.99,4.2,0.1,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese
+20046,Glenstal Extra Mature Cheddar 200g,4.1,4.25,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Delicatessen
+20054,Galbani.dolcelatte X150g,3.62,4.25,0.15,kg,False,False,,delicatessen,Mozzarella; Cheeses; Galbani; Refrigerated; Delicatessen
+20064,Porminho Sandwich Ham 98% Low Fat,6.98,6.98,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20075,Vio Creamy Garlic & Herbs 150g,3.13,3.3,0.15,kg,False,False,,delicatessen,Cheeses; Delicatessen; Other Types of Cheese; VIOLIFE
+20077,Bontafette Petto Di Tacchino Arrosto M&c 60gr,1.21,1.34,0.06,kg,False,False,,delicatessen,Chilled Ham and Salami; Ham and Salami; Delicatessen
+20099,Square Blue Cheese,14.49,14.49,1.0,kg,True,False,Denmark,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20137,Chamois Dor Cheese,25.2,25.2,1.0,kg,True,False,Italia,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20138,Gardani Crudo 18 Months,28.09,28.09,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20162,Creamy Goat Cheese  With Honey,30.99,30.99,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20163,Kolios Feta 150g,3.19,3.29,0.15,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen; Kolios
+20195,Auricchio Wedge Granapadano 200g,5.41,5.49,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Ricotta and Cottage cheese; Delicatessen; Auricchio
+20258,Fior Di Vita Edam Cheese Slices 150g,2.27,2.29,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20268,Montagna Nduja Piccante,22.93,22.93,1.0,kg,True,False,Italia,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20276,Fior Di Vita Mozzarella Cheese Slices 150g,2.57,2.59,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20325,Babybel Mini Rolls 85g,3.95,3.99,0.09,kg,False,False,,delicatessen,Cheeses; Babybel; Delicatessen; Other Types of Cheese
+20343,Delta Feta Cheese Block 200gr,3.75,4.0,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Delicatessen
+20357,Jolly Square Ham,6.5,6.5,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20370,Snowdonia Black Bomber,31.92,31.92,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20371,Rana Ravioli Formaggio 400g,5.39,5.49,0.4,kg,False,False,,delicatessen,Rana; Fresh Pasta; Delicatessen
+20391,Snowdonia Truffle,39.38,39.38,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20404,Lardo Di Colonnata,36.75,36.75,1.0,kg,True,False,Italia,delicatessen,Cheeses; Refrigerated; Prepacked Cheese; Delicatessen
+20423,Delice Des Cremiers,31.45,31.45,1.0,kg,True,False,France,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20479,Babybel Mini 120g,3.95,3.99,0.12,kg,False,False,,delicatessen,Cheeses; Babybel; Delicatessen; Other Types of Cheese
+20515,Comte Trad Emot,32.22,32.22,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20544,Basiron Mixed Nuts,17.17,17.17,1.0,kg,True,False,Netherlands,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20585,Emborg Red Cheddar 200g,3.84,3.99,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheddar; Delicatessen; Emborg
+20608,Reny Picot Mozzarella Shredded 150g,2.9,3.08,0.15,kg,False,False,,delicatessen,Mozzarella; Cheeses; Refrigerated; Delicatessen; Reny Picot
+20612,Bigilla,7.88,7.88,1.0,kg,True,False,Malta,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+20617,Auricchio Wedge Parmegiano Reggiano 200g,6.81,6.99,0.2,kg,False,False,,delicatessen,Cheeses; Refrigerated; Parmessan; Delicatessen; Auricchio
+20623,Brie Goat Cheese,32.13,32.13,1.0,kg,True,False,France,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20633,Benna Rikotta 250g,1.95,1.95,0.25,kg,False,False,,delicatessen,Benna; Cheeses; Refrigerated; Ricotta and Cottage cheese; Delicatessen
+20643,Galbani Mozzarella Di Bufala 125g,3.72,3.75,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; Galbani; Refrigerated; Delicatessen
+20644,Manchego Dop Cheese,44.95,44.95,1.0,kg,True,False,Spain,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20673,Hanini Fresh Goat Gbejniet X2,2.69,2.79,0.25,kg,False,False,,delicatessen,Hanini; Cheeses; Refrigerated; Delicatessen; Goats Cheese
+20683,Dodoni Feta  In Oil And Oregano 150g,5.37,5.45,0.15,kg,False,False,,delicatessen,Dodoni; Cheeses; Feta Cheese; Delicatessen
+20685,Trevalli Formaggio Misto Noci 180g,3.56,3.99,0.18,kg,False,False,,delicatessen,Trevalli; Cheeses; Delicatessen; Other Types of Cheese
+20694,Auricchio Mozzarella Bufala 125g,3.17,3.25,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; Refrigerated; Delicatessen; Auricchio
+20703,La Contadina Mozzarella Di Bufala Lacto Free 125g,3.19,3.27,0.13,kg,False,False,,delicatessen,Mozzarella; Cheeses; La Contadina; Refrigerated; Delicatessen
+20704,Old Irish Cheese Luck'o,26.2,26.2,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20713,Fior Di Vita Havarti Cheese Slices 150g,2.86,2.99,0.15,kg,False,False,,delicatessen,Cheeses; Refrigerated; Cheese Slices; Fior Di Vita; Delicatessen
+20735,Olympus Feta Cheese 200g,3.9,3.95,0.2,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Olympus; Delicatessen
+20740,Cacio Cavallo Fresco,42.0,42.0,1.0,p,True,False,Italia,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+20756,Gbejniet Moxxi Dry,23.8,23.8,1.0,kg,True,False,Malta,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20775,Kerrygold Mild White Cheddar 200g,3.69,3.79,0.2,kg,False,False,,delicatessen,Cheeses; Kerrygold; Refrigerated; Cheddar; Delicatessen
+20803,Mortadella Tartufo,20.97,20.97,1.0,p,True,False,Italia,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+20812,Arla Apetina Feta In Oil 275g,3.76,3.99,0.28,kg,False,False,,delicatessen,Cheeses; Feta Cheese; Arla; Delicatessen
+20817,Sant Dalmai Chorizo Extra 100g,2.71,2.75,0.1,kg,False,False,,delicatessen,Chilled Ham and Salami; Ham and Salami; Delicatessen; Sant Dalmai
+20832,Negroni San Daniele Prosciutto Crudo 80g,4.65,4.72,1.0,p,False,False,,delicatessen,Negroni; Chilled Ham and Salami; Ham and Salami; Delicatessen
+20851,Chocolate And Orange Cheese,29.35,29.35,1.0,kg,True,False,United Kingdom,delicatessen,Cheeses; Foreign Cheese; Refrigerated; Delicatessen
+20860,Hanini Fresh Cow  2x100g,2.49,2.59,0.2,kg,False,False,,delicatessen,Hanini; Cheeses; Delicatessen; Other Types of Cheese
+20894,Elite Deli To Go Shredded White Cheddar 150g,2.61,2.65,0.15,kg,False,False,,delicatessen,Elite; Cheeses; Deli Cheese; Delicatessen
+20919,Gouda Cheese Lactose Free,18.11,18.11,1.0,kg,True,False,Netherlands,delicatessen,Cheeses; Fresh Cheese; Refrigerated; Delicatessen
+20931,Morbier Cheese,31.5,31.5,1.0,p,True,False,France,delicatessen,Deli Seasonal Goods; Delicatessen; Seasonal
+20937,Chicken Roll ( On Offer ),11.5,11.5,1.0,kg,True,False,Malta,delicatessen,Fresh Ham and Salami; Ham and Salami; Refrigerated; Delicatessen
+20969,Stuffed Vine Leaves,21.78,21.78,1.0,kg,True,False,Greece,delicatessen,Antipasto; Antipasto Food; Refrigerated; Delicatessen
+20610,Nettuno Mussel Meat 500g,4.91,4.95,0.5,kg,False,False,,fish,Frozen Fish; Fish
+20636,Tuna With Herbs - Gourmet,19.0,19.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20675,Homemade Smoked Salmon - Fish,36.5,36.5,1.0,kg,True,False,Norway,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20678,Frosta Bocconcini Di Merluzzo 280g,4.96,4.99,0.28,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+20682,Findus Merluzzo Grigliato Pomodoro 250g,5.99,6.5,0.25,kg,False,False,,fish,Frozen Fish; Fish; Findus
+20757,Thai Tapas Prawn Gyoza 1kg,17.8,19.0,1.0,kg,False,False,,fish,Frozen Fish; Fish
+20759,Vongole Sgusciate Precotte Congelate 250gr,3.99,5.0,0.25,kg,False,False,,fish,Frozen Fish; Fish
+20771,Salmon Carpaccio Sashimi  - Fish,30.0,30.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20831,Arbi Ragu Di Polpo 220g,5.89,5.99,0.22,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+20850,Sushi Roll Platter Set A,7.5,7.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20889,Gallina -gurnard(local) (gourmet),29.0,29.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+20958,Tuna Belly,5.5,5.5,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21047,Findus Crispy Cod Fillet 360g,7.99,8.49,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21124,Frosta Croccanti Agli Spinaci 220g,3.99,4.73,0.22,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+21137,Mussels Fish,5.5,5.5,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+21193,Donegal Catch Battered Cod Fillets 400g,11.75,11.99,0.4,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+21225,Gurbell-meagre  ( Local ) - Fish,12.0,12.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21254,Frozen Cooked Squid Tentacles 1kg,10.9,11.51,0.0,,False,False,,fish,Frozen Fish; Fish
+21307,Frozen Fish Burgers,4.9,4.9,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Breaded Fish; Refrigerated
+21373,"Highland Harvest Smoked Salmon, 200g",9.79,9.99,0.2,kg,False,False,,fish,Frozen Fish; Fish; High Harvest
+21379,Salmon Sweet Chilli &  Lime & Corriander - Fish,22.0,22.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+21499,Findus Croccole 2pcs 216g,7.95,9.32,0.22,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21520,Cippulazza ( Scorpion Fish ) ( Local ) - Fish,26.0,26.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+21808,Vici Salmon Steaks 2x125g,8.9,8.98,2.0,p,False,False,,fish,Vici; Frozen Fish; Fish
+21831,La Ciurma Filetti Di Meluzzo 640g,6.99,8.0,0.64,kg,False,False,,fish,Frozen Fish; Fish; La Ciurma
+21841,Findus Croccole Con Omega 3pcs 200g,7.95,9.32,0.2,kg,False,False,,fish,Frozen Fish; Fish; Findus
+21910,Frosta Bastoncini Salmone 10 X 300g,6.82,7.5,0.3,kg,False,False,,fish,Frozen Fish; Fish; Frosta
+21925,Frozen Neonati,16.0,16.0,1.0,kg,True,False,China,fish,Frozen Fish; Fish; Refrigerated
+21977,Sushi Mix Platter Set F,8.5,8.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+22005,Nettuno Superior Seafood 500g,6.29,6.45,0.5,kg,False,False,,fish,Frozen Fish; Fish
+22033,Xxl Giant Prawns,41.95,41.95,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+22098,Natural Cool Organic Mangos 300g,4.95,5.16,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22117,Donegal Catching 2 Xl Battered Fish Fillets 300g,5.94,5.99,0.3,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+22155,La Ciurma Shrimps 500g,9.52,9.69,0.5,kg,False,False,,fish,Frozen Fish; Fish; La Ciurma
+22269,Bird's Eye 4 Fish Fillets In Batter 400g,6.65,7.38,0.4,kg,False,False,,fish,Frozen Fish; Fish; Bird'S Eye
+22284,Youngs  Flipper Dippers 250g,3.35,3.49,0.25,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+22413,Genepesca Tentazione Cozze 300g,4.95,4.98,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22444,Donregal Catch Fish Nuggets 250g,4.68,4.99,0.25,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+22476,Findus Fish & Crispy Fillet 480g,7.79,7.99,0.48,kg,False,False,,fish,Frozen Fish; Fish; Findus
+22489,Natural Cool Organic Blueberries 300g,5.24,5.46,0.3,kg,False,False,,fish,Frozen Fish; Fish
+22535,Arbi Condiscoglio Pomodoro 450g,5.89,5.99,0.45,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+22568,Dott Steak-wreckfish ( Local ) - Fish,29.95,29.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+22635,Lobster (local) - Fish,39.0,39.0,1.0,kg,True,False,,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+22747,Condipresto Frozen Ready Made Mixed Seafood Sauce 450g,5.19,5.99,0.45,kg,False,False,,fish,Frozen Fish; Fish; Condipresto
+22784,King Prawns Rossi 03 ( Local ) - Fish,48.5,48.5,1.0,kg,True,False,,fish,Frozen Fish; Fish; Refrigerated
+22806,Seafood Mix,8.95,8.95,1.0,kg,True,False,Malta,fish,Frozen Fish; Fish; Refrigerated
+22823,Findus Nuggets Di Merluzzo D'alaska 245g,5.89,6.36,0.25,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23111,Findus Filetti Di Merluzzo 360g,8.99,10.57,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23115,Findus Merluzzo Gratin.sz Gluti 380g,7.99,8.45,0.38,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23127,Pagell -pandora  (red Snapper) - Fish,14.95,14.95,1.0,kg,True,False,Greece,fish,Fish; Fresh Fish; Refrigerated; Foreign Fresh Fish
+23199,Pork Spring Roll X12,3.95,3.95,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23262,Youngs 10 Omega 3 Fish Finger 250g,3.55,3.69,0.25,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+23290,Arbi Condivongola 450g,6.35,6.49,0.45,kg,False,False,,fish,Frozen Fish; Fish; Arbi
+23332,Homemade Smoked Acciola,37.75,37.75,1.0,p,True,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23360,Findus Croustibat Fish Fingers 12 Pack 360g,5.75,5.99,0.36,kg,False,False,,fish,Frozen Fish; Fish; Findus
+23415,Vici Breaded Maxi Shrimps 300g,3.95,4.22,0.3,kg,False,False,,fish,Vici; Frozen Fish; Fish
+23441,Cuttle Fish(sicc) With Herbs,19.95,19.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23464,Fidagel Calamari 10/15 500g,8.99,10.79,0.5,kg,False,False,,fish,Frozen Fish; Fish
+23585,Planets Pride Vannamei Shrimp 750g,13.12,14.75,0.75,kg,False,False,,fish,Frozen Fish; Fish
+23637,Salmon Nigiri (g),5.95,5.95,1.0,kg,False,False,,fish,Fish; Ready Made Fish; Fresh Fish; Refrigerated
+23766,Seabass (spnotta) With Herbs- Gourmet,10.95,10.95,1.0,kg,True,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+23871,Planets Pride Octupus Baby 800g,13.63,15.4,0.8,kg,False,False,,fish,Frozen Fish; Fish
+23909,Norlax Smoked Salmon 200g,9.99,10.96,0.2,kg,False,False,,fish,Frozen Fish; Fish; Norlax
+23965,Mare Pronto The Fish Burger Tonno 170gr,4.99,5.82,0.17,kg,False,False,,fish,Frozen Fish; Fish
+23991,Tragni-weaver,19.95,19.95,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Local Fresh Fish
+23992,Kirkland Signature Tempura Shrimp 30 Ct 1.07kg,31.34,35.0,1.07,kg,False,False,,fish,Frozen Fish; Fish; Kirkland
+24061,Ittitalia Ocean Catch Fish Fingers 300g,2.89,3.09,0.3,kg,False,False,,fish,Frozen Fish; Fish; Ittitalia
+24165,Findus Fish Fingers 14pcs 350g,4.86,4.99,0.35,kg,False,False,,fish,Frozen Fish; Fish; Findus
+24196,Youngs 4 Battered Cod Fillet 440g,9.79,9.99,0.44,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+24201,Wiva Mare Sugo A/vongole Mare 350g,4.99,6.0,0.35,kg,False,False,,fish,Frozen Fish; Fish
+24282,Planets Pride Bao Buns Folded Black 990g 22pcs,15.22,17.0,0.99,kg,False,False,,fish,Frozen Fish; Fish
+24440,Youngs 4 Battered Fish Fillet 400g,6.99,7.25,0.4,kg,False,False,,fish,Frozen Fish; Fish; Youngs
+24553,Donegal Catach Cider Batterd Haddock 270g,6.75,6.99,0.27,kg,False,False,,fish,Frozen Fish; Fish; Donegal Catch
+24598,Smoked Erringi,14.45,14.45,1.0,kg,True,False,Malta,fish,Fish; Ready Made Fish; Fresh Fish; Refrigerated
+24750,Wakame Salad - Fish,25.0,25.0,1.0,kg,True,False,Malta,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+24751,Rizzi,19.5,19.5,1.0,p,False,False,Malta,fish,Shellfish; Fish; Fresh Fish; Refrigerated
+24824,Sushi Mix Platter Set B,8.5,8.5,1.0,p,False,False,,fish,Fish; Fresh Fish; Refrigerated; Gourmet Fish
+24893,Klaas Puul Seafood Mix 500g,5.52,5.85,0.5,kg,False,False,,fish,Frozen Fish; Fish; Kolios
+25028,Wiva Mare Condipresto Pronto Scoglio Pomodoro,4.99,6.0,1.0,p,False,False,,fish,Frozen Fish; Fish
+25044,Mare Pronto The Fish Burger Salmone 170gr,5.99,7.5,0.17,kg,False,False,,fish,Frozen Fish; Fish
+19735,Kiwi Small,4.75,4.75,1.0,kg,True,False,,fruitsandvegetables,Fruit; Kiwi; Fruits and Vegetables
+19787,Aloc X Amazonica,16.18,16.18,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19791,"Pineapple, Fennel & Ginger Juice",2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19833,Tofu/vegetable Kebab,1.25,1.25,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19834,Aglaonema,23.6,23.6,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19846,Pink Oyster Mushrooms,50.06,50.06,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+19868,White Diced Onions 200g,0.99,0.99,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19908,Peperomia,11.67,11.67,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19913,Apple Wedges,0.98,0.98,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+19928,Aloc X Amazonica,52.99,52.99,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19939,Calat Sanderiana,52.99,52.99,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19948,Potatoes ( 4kg Bag ),4.8,4.8,1.0,p,False,False,,fruitsandvegetables,Potatoes; Fruits and Vegetables; Vegetables
+19984,Rhubarb Per Kg,8.02,8.02,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20011,Coriander In Pot,4.13,4.13,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+20016,Pears ( Peeled Prickley Pears ),4.95,4.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20027,Hericot Verts,3.74,3.74,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20070,Carrots Spaggetti Fresh,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20074,Chicken Hazelnut Ceaser,5.95,5.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20087,Barlotti Pears,4.95,4.95,1.0,kg,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+20148,Vriesea Astrid,15.12,15.12,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20174,Pear ( Prickly Pears ) Per Kg,3.45,3.45,1.0,p,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+20234,Fic Beng Roy,12.79,12.79,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20247,Doreoc Special Frites 2.5kg,2.95,2.95,0.0,,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20319,Vegetable Couscous,8.93,8.93,1.0,kg,True,False,Malta,fruitsandvegetables,Salads; Fruits and Vegetables
+20382,Peperomia,11.42,11.42,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20389,Fruit Salad Cups,2.25,2.25,1.0,p,False,False,,fruitsandvegetables,Salads; Other Pre-Packed Salads; Fruits and Vegetables
+20405,Ger Colourgame Gem,5.1,5.1,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20406,"White Grapes, 1kg",4.95,4.95,1.0,kg,True,False,,fruitsandvegetables,Fruit; Fruits and Vegetables; Grapes
+20416,Dra Gem,19.34,19.34,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20425,Pumpkin Qararotta,1.75,1.75,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20428,Beef & Fagioli Soup 500ml,4.95,5.2,0.5,l,False,False,Malta,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20430,Apple & Ginger Juice 500ml,5.75,5.75,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20450,Chicken Katsu Baguette,5.45,5.72,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20454,"Papaya,mango & Dragon Fruit Platter",3.95,3.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20465,Ro Baby Jewel,6.69,6.69,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20472,Kiwi Gold,8.0,8.0,1.0,kg,True,False,,fruitsandvegetables,Fruit; Kiwi; Fruits and Vegetables
+20482,Coconut,1.65,1.65,1.0,p,False,False,,fruitsandvegetables,Fruit; Exotic Fruit; Fruits and Vegetables
+20484,Aloe Vera,12.41,12.41,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20491,Avocado Ready To Eat Per Piece,1.4,1.4,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20500,Naga Jolokia 80g,10.96,10.96,1.0,kg,True,False,,fruitsandvegetables,Fresh Green Vegetables; Fruits and Vegetables; Vegetables
+20518,Swede Per Kg,2.69,2.69,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20519,Wallnuts In Figs/dates/apricots,16.95,16.95,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20553,Aubergines By Kg,3.24,3.24,1.0,p,True,False,,fruitsandvegetables,Aubergines; Fruits and Vegetables; Vegetables
+20558,Spaghetti Squash Per Kg,4.7,4.7,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+20625,Cut Beans,12.63,12.63,1.0,kg,True,False,,fruitsandvegetables,Beans; Beans Peas and Sprouts; Fruits and Vegetables
+20793,Red Watermelons Quarter,3.22,3.22,1.0,p,True,False,,fruitsandvegetables,Melons; Fruits and Vegetables; Vegetables
+20820,Nettle Leaves 110g,4.12,4.12,0.11,kg,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+20932,Mixed Fruit Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+20976,Ginger,6.8,6.8,1.0,p,True,False,,fruitsandvegetables,Ginger; Fruits and Vegetables; Vegetables
+20984,Erica Darley White Perfect,4.78,4.78,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+20986,Chrys Gem In Pot,5.86,5.86,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21019,Plum Vine Tomatoes,5.31,5.31,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21058,Yellow French Beans By Kg,16.13,16.13,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21067,Mango Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21069,Shredded Tri Colori X300g,1.98,1.98,0.2,p,False,False,Italia,fruitsandvegetables,Fruit and Vegetable (Freshly Cut); Fresh Cut Fruit and Vegetables; Fruits and Vegetables
+21072,Calat Ov,10.1,10.1,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21086,Pomegranate Seed,3.95,3.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21091,Ginger & Turmeric Shots 150ml,2.75,2.75,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21113,Carrots With Leafs,2.06,2.06,1.0,kg,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21142,Turnips ( Foreign Turnips ),2.19,2.19,1.0,kg,True,False,,fruitsandvegetables,Weighted Vegetables; Fruits and Vegetables; Vegetables
+21183,Apples ( Golden Delicious Apples ) By Kg,2.82,2.82,1.0,kg,True,False,,fruitsandvegetables,Apples and Pears; Fruit; Fruits and Vegetables
+21195,Pineapple ( Peeled Pineapple ),3.75,3.75,1.0,p,False,False,,fruitsandvegetables,Fruit; Pineapple; Fruits and Vegetables
+21208,Sliced Red Onions 500g,1.75,1.75,0.5,kg,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21261,Marjoram In Pot,4.2,4.2,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21297,Figs ( Fresh Figs ) By Kg,33.82,33.82,1.0,kg,True,False,,fruitsandvegetables,Fruit; Organic Fruit; Fruits and Vegetables
+21324,Ro Am Inf Soft Pink,7.93,7.93,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21325,Toffee & Cinnamon Apple Granola Cup,2.45,2.45,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21338,Baby Roses Plantx12,55.0,55.0,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21350,Pachira Aquatica,15.13,15.13,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21360,Duck Bao Buns,7.45,7.82,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21388,Yellow Tomatoes,6.19,6.19,1.0,kg,True,False,,fruitsandvegetables,Tomatoes; Fruits and Vegetables; Vegetables
+21427,Pteris Straminea,9.62,9.62,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21439,Mill Kcina Taz Zija Freskezza Spinach 300g,2.74,2.85,0.3,p,False,False,,fruitsandvegetables,Salads; Mil-Kcina Taz-Zija; Other Pre-Packed Salads; Fruits and Vegetables
+21460,Figs Smoothie,2.95,2.95,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21464,Herbs ( Fresh Thyme ) Pkts,1.45,1.45,1.0,p,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21478,Baby Spinach 350g,5.5,5.5,1.0,kg,False,False,,fruitsandvegetables,Salads; Other Pre-Packed Salads; Fruits and Vegetables
+21503,Mustard Ground 350g,4.35,4.35,0.35,kg,False,False,,fruitsandvegetables,Herbs Spices and Cubes; Herbs; Fruits and Vegetables
+21531,Grapefruit Juice 250ml,2.58,2.58,1.0,p,False,False,,fruitsandvegetables,Other Vegetables; Fruits and Vegetables; Vegetables
+21532,Arr  Strelitzia L%,15.38,15.38,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+21535,Beg Du Gem,7.81,7.81,1.0,p,False,False,,fruitsandvegetables,Flowers; Fruits and Vegetables
+19481,Mlindo Blue Liquid 930ml,2.5,3.0,0.93,l,False,False,,household,Household Care and Essentials; All Purpose Cleaners; Mastro Lindo; Household
+19483,Brown Watson Now I Can Read:stories For Boys,5.5,5.5,1.0,p,False,False,,household,Stationery; Household
+19486,Sbc Hair Stylist Doll,11.99,24.0,1.0,p,False,False,,household,Toys; Household
+19489,Lunch Cube Assorted,8.07,8.5,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; SISTEMA; Household
+19491,Collage Open Fem Conv,1.75,1.75,1.0,p,False,False,,household,Stationery; Household
+19492,De Fonseca Winter Roma Top Ladie Bed Slippers,14.9,14.9,1.0,p,False,False,,household,Shoes; Footwear; Household
+19497,Babylino Unisex Pants No5 10-16kg 26pcs,8.78,10.4,1.0,p,False,False,,household,Baby Care and Accessories; Babylino; Diapers / Nappies; Household
+19499,Digital Kitchen Scales 500 G accura,33.61,34.3,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; Household
+19500,Chicco Breast Pads 30pcs,5.79,5.99,1.0,p,False,False,,household,Baby Accessories; Baby Care and Accessories; Chicco; Household
+19501,Vivace Soft Conditioner White Tale 4l,3.36,3.79,4.0,l,False,False,,household,Laundry Products; Vivace; Laundry Detergent ; Household
+19504,Heat Holders Ladies Lounge Socks Aucklandstripe Silver Grey,12.95,12.95,1.0,p,False,False,,household,Garments; Socks; Household
+19508,Mustela Baby Massage Oil 100 Ml,8.99,8.99,0.1,l,False,False,,household,Baby Hygiene; Baby Care and Accessories; Mustela; Household
+19509,Areon Wild,1.0,1.0,1.0,p,False,False,,household,Car Air Freshners; Car Products; Areon; Household
+19511,Huggies Unisex Grande 15-30 Kg 34pcs,14.45,16.99,34.0,p,False,False,,household,Baby Care and Accessories; Huggies; Diapers / Nappies; Household
+19515,Car Pride Screen Wash 1l,3.41,3.47,1.0,l,False,False,,household,Car Care; Car Products; Car Pride; Household
+19516,My Beach Spirit Ladies Flip Flop Paisley,6.95,6.95,1.0,p,False,False,,household,Shoes; Footwear; Household
+19519,Glade Sense & Spray  Mela E Cannella 18ml,3.95,5.15,0.02,l,False,False,,household,Household Care and Essentials; Air Freshners; Household; Glade
+19520,Curlimals Bibi Bunny,23.74,24.99,1.0,p,False,False,,household,Toys; Household
+19521,Bags Food/freezer Slide Seal 18x21cm 20pk X24,3.17,3.39,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; Household
+19526,"10x9,5x13cm Pumpkin",5.0,5.0,1.0,p,False,False,,household,Halloween; Seasonal Items; Household
+19528,Men Thermal V/neck L/sleeve Vest Whitem,14.5,14.5,1.0,p,False,False,,household,Saffio; Garments; Underwear; Household
+19529,Les Lavandieres Pietra Sgrassante 500g,7.24,7.98,0.5,kg,False,False,,household,Household Care and Essentials; All Purpose Cleaners; Household
+19530,Hg Bathshine 500ml,5.76,5.91,0.5,l,False,False,,household,Hg; Bathroom Care and Essentials; Bathroom Cleaning Products; Household
+19533,Christmas Lighted Glass With Winter Scene 9x20cm,15.95,17.0,1.0,p,False,False,,household,Christmas Items; Seasonal Items; Household
+19534,Whitakers Milk Smokey Salted Caramel Squares 150gr,4.95,5.5,0.15,kg,False,False,,household,Christmas Items; Seasonal Items; Household; Whitakers
+19535,"Rect-cont.,1.2lt80100590190 Hei1908",4.12,4.25,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; Household
+19537,Eurolamp Extreme Power Battery Aaa 1.5v 4pcs,2.2,2.9,1.0,p,False,False,,household,Batteries; Household
+19538,Tescoma Table Knife 12 Cm 6 Pcs Red Presto,10.29,10.5,1.0,p,False,False,,household,Tescoma; Household Care and Essentials; Kitchen Essentials; Household
+19547,Dim Cotton Ladies Boxers/panties [4h01],14.99,14.99,1.0,p,False,False,,household,Dim; Garments; Underwear; Household
+19550,Candle Numeral Deluxe - 8,1.36,1.4,1.0,p,False,False,,household,Party Items ; Household; Party Items
+19554,Dream Baby Toothbrush Set 3 Stage White,6.99,6.99,1.0,p,False,False,,household,Dream Baby; Baby Accessories; Baby Care and Accessories; Household
+19557,Nuvoletta Casa Alla Lavanda 3ltr,3.68,4.25,3.0,l,False,False,,household,Laundry Conditioner; Laundry Products; Household
+19558,Hotpack Biodegradable Picnic Set X12,4.8,4.9,1.0,p,False,False,,household,Disposable Goods; Disposable Cups; Household
+19561,De Fonseca Ladies Wedge Flip Flops,12.9,12.9,1.0,p,False,False,,household,Shoes; Footwear; Household
+19566,Sperlari Tartufi Di Chocolate Assortiti 160g,5.5,5.65,0.16,kg,False,False,,household,Sperlari; Christmas Items; Seasonal Items; Household
+19567,Culpitt Select Baking Cases Red 50mm X50pcs,4.42,4.6,50.0,p,False,False,,household,Disposable Cup Cakes; Culpitt; Household; Party Items
+19568,Areon Orient,1.5,1.5,1.0,p,False,False,,household,Car Air Freshners; Car Products; Areon; Household
+19575,Bialetti Dynamic Stone Frying Pan 30cm,20.66,21.75,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; Bialetti; Household
+19577,Navigate Monochrome Tile Stainless Steel Drinks Bottle 500ml,22.98,24.0,1.0,p,False,False,,household,Kitchen Care and Accessories; Thermos; Household
+19579,Barbxp Precision Beard Trimmer,19.99,19.99,1.0,p,False,False,,household,Women Accessories; Abc; Household
+19580,Noel Tatt Wedding Ing -dj324,2.5,2.5,1.0,p,False,False,,household,Cards; Stationery ; Household
+19585,Zippo Reading Glasses,10.95,10.95,1.0,p,False,False,,household,Reading Glasses; Health; Household
+19588,Nick Explosions X 6,16.99,29.99,1.0,p,False,False,,household,Toys; Household
+19589,Vernel Softener Conc. 48 Lavender Lavender 1.2ltr,3.99,5.0,1.2,l,False,False,,household,Laundry Conditioner; Laundry Products; Vernel; Household
+19596,Pampers Pants 4 Maxi X23,9.33,11.25,23.0,p,False,False,,household,Pampers; Baby Care and Accessories; Diapers / Nappies; Household
+19597,Glade Auto Refill Berry 269ml,5.37,5.77,0.27,l,False,False,,household,Household Care and Essentials; Air Freshners; Household; Glade
+19599,Hallmark 50 Years Code 50 - 2,2.5,2.5,1.0,p,False,False,,household,Cards; Stationery ; Household
+19602,Oust 3in1 Aerosol  400ml,5.48,6.0,0.4,l,False,False,,household,Household Care and Essentials; Air Freshners; Oust; Household
+19604,Hallmark Friend Birthday Code 90 -fr2,3.75,3.75,1.0,p,False,False,,household,Cards; Stationery ; Household
+19605,Clg Gift Bag Small Quilted Lilac (6),1.5,1.5,1.0,p,False,False,,household,Stationery; Household
+19606,Astonish 2in1 Non Bio Laundry Liquid Secret Garden 840ml,4.99,5.99,0.84,l,False,False,,household,Astonish; Laundry Products; Laundry Detergent ; Household
+19607,Energizer Lithium Battery Cr2025 Fsb2,4.4,4.4,1.0,p,False,False,,household,Batteries; Household
+19611,Miles Kelly Flashcards Spot Dinosaurs,7.99,7.99,1.0,p,False,False,,household,Stationery; Household
+19615,Live Up Waist Support,14.16,14.9,1.0,p,False,False,,household,Sports Accessories; Sports; Household
+19616,Vileda Spazola Margherita,5.45,6.08,1.0,p,False,False,,household,Household Care and Essentials; Vileda; Cleaning Materials; Household
+19619,Vernel Softener Conc.lotus Washes 1.15lt 46w,3.99,5.0,1.15,l,False,False,,household,Laundry Products; Vernel; Laundry Detergent ; Household
+19620,Chicco Advanced Cup 12m Girl,12.44,12.9,1.0,p,False,False,,household,Baby Accessories; Baby Care and Accessories; Chicco; Household
+19622,Balocco Torta Limone 400g,5.12,5.69,0.4,kg,False,False,,household,Christmas Items; Balocco; Seasonal Items; Household
+19623,Dim Basic Dim Basic Fascination X2 15d  35/41,3.6,3.6,1.0,kg,False,False,,household,Dim; Garments; Vests; Household
+19631,De Fonseca Winter Bormio Men Bed Slippers,20.9,20.9,1.0,p,False,False,,household,Shoes; Footwear; Household
+19633,Hallmark Mum Birthday Code 75 - F39,3.25,3.25,1.0,p,False,False,,household,Cards; Stationery ; Household
+19636,M Square Roaster,5.72,5.9,1.0,p,False,False,,household,Household Care and Essentials; Kitchen Essentials; Household
+19639,Cadbury 3d Advent Calendar Uk 308g,15.47,15.99,0.31,kg,False,False,,household,Christmas Items; Cadbury; Seasonal Items; Household
+19647,Christmas Poinsettia White 25cm,2.5,3.0,1.0,p,False,False,,household,Christmas Items; Seasonal Items; Household
+19648,Greeting Cards Code 50,2.25,2.25,1.0,p,False,False,,household,Stationery; Household
+19653,Live Up Patella Support,5.6,5.9,1.0,p,False,False,,household,Sports Accessories; Sports; Household
+19656,Septona Wipes Orange Blossom 15pc 2+2 Pk Promo,1.75,1.8,1.0,p,False,False,,household,Baby Care and Accessories; Baby Wipes; Household
+19657,Zippo Reading Glasses,10.95,10.95,1.0,p,False,False,,household,Reading Glasses; Health; Household
+19658,Fairy Dishwasher Wash Platinum Lemon 20 Tabs,5.74,8.75,20.0,p,False,False,,household,Fairy; Kitchen Care and Accessories; Household; Dish Washing
+19659,Logex 2 Metalic Sponges 30g,1.52,1.83,1.0,p,False,False,,household,Household Care and Essentials; Cleaning Materials; Logex; Household
+19660,Duracell Optimum Aa Alkaline X 8 Batteries,14.12,14.12,1.0,p,False,False,,household,Batteries; Duracell; Household
+19664,Igloo Books Puzzles For Kids Marvellous Wrdsearch,2.99,2.99,1.0,p,False,False,,household,Stationery; Household
+19666,Dp Dino World Torch W Visual Effects,6.95,6.95,0.0,,False,False,,household,Stationery; Household
+19667,Noel Tatt Sister Birthday -dn33b,1.99,1.99,1.0,p,False,False,,household,Cards; Stationery ; Household
+19671,Ariel Pods Color 33x21.7g,12.99,20.42,33.0,p,False,False,,household,Ariel; Laundry Products; Laundry Detergent ; Household
+19673,Xmas Lights Led B/o Timer Warm White 200b,19.5,25.0,1.0,p,False,False,,household,Christmas Items; Seasonal Items; Household
+19680,Petali Scented Glass Cotton,2.99,3.2,1.0,p,False,False,,household,Household Care and Essentials; Petali ; Candles Perfumed; Household
+19684,Tescoma Glass Cover Cm.22 Unicover,11.96,12.2,1.0,p,False,False,,household,Tescoma; Household Care and Essentials; Kitchen Essentials; Household
+19689,Vileda Scopa Doppio Angolo,5.99,8.0,1.0,p,False,False,,household,Household Care and Essentials; Vileda; Cleaning Materials; Household
+19693,Gdh Cat Tivity Karaoke,18.05,19.0,1.0,p,False,False,,household,Toys; Household
+19670,Smart Organic Sesame Seeds 250g,2.74,2.85,0.25,kg,False,False,,organic,Organic; Smart Organic; Organic Food; Dietary Food
+19676,Misura Biscotti Fibrextra Integrali 330g,3.06,3.29,0.33,kg,False,False,,organic,Organic; Misura; Dietary Food
+19688,Alpro Yofu Nas Single Passion Fruit 135g,1.53,1.85,0.14,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Alpro
+19701,Kelkin Peanut Butter Smooth 350g,4.12,4.4,0.35,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Kelkin
+19704,Powerbar Natural Energy Bar Vegan Sweet And Salty 40g,1.42,1.49,0.04,kg,False,False,,organic,Organic; Dietary Food
+19718,Biona Rye Bread Amaranth 500g,3.37,3.5,0.5,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19736,Damhert Apricot Jam 210g,2.58,2.86,0.21,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19739,Pensa Bio Pealed Sunflower Seeds 250g,2.54,2.65,0.25,kg,False,False,,organic,Organic; Dietary Food
+19742,Vitalp Sugar Free Orange 25g,1.2,1.2,0.25,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19745,Biona Cider Vinegar Mother 750ml,4.28,4.45,0.75,l,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19747,Dragon Tapioca Flour 200g,2.92,3.0,0.2,kg,False,False,,organic,Organic; Dragon; Organic Food; Dietary Food
+19757,Biona Agave Light Syrup 700g,8.95,9.3,0.7,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19758,Dragon Immunity Mix 150g,12.51,13.0,0.15,kg,False,False,,organic,Organic; Dragon; Dietary Food
+19766,Eat Real Chips Straws Veggie Kale 113g 66c Off,1.89,2.55,0.11,kg,False,False,,organic,Organic; Dietary Food; Eat Real
+19781,Bombus Raw Energy Maracuja & Coconut 50g,0.95,0.99,0.05,kg,False,False,,organic,Organic; Dietary Food
+19792,Servivita Bbq Sauce 320ml,4.19,4.35,0.32,kg,False,False,,organic,Organic; Dietary Food; SERVIVITA
+19797,Meridian Peanut & Coconut Butter 280g,5.6,6.21,0.28,kg,False,False,,organic,Organic; Dietary Food; Meridiana
+19799,Schar Cereal Flakes 300g,4.05,4.29,0.3,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19814,Dragon Turmeric Curcuma Powder 150g,4.33,4.5,0.15,kg,False,False,,organic,Organic; Dragon; Organic Food; Dietary Food
+19817,Rice Up Rice Cakes Millet & Amaranth 120g,1.13,1.29,0.12,kg,False,False,,organic,Organic; Rice Up; Gluten Free Products; Dietary Food
+19848,Pasta Natura Organic Gluten Free Penne Peas 250g,2.56,2.75,0.25,kg,False,False,,organic,Organic; Gluten Free Pasta; Dietary Food
+19851,Schar Wafers Lemon 125g,2.13,2.25,0.13,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19873,Golden Harvest Gf Buns X2,2.11,2.11,1.0,p,False,False,,organic,Organic; Golden Harvest; Gluten Free Products; Dietary Food
+19883,Brain Foods Hazelnut Wafer 40g,2.32,2.44,0.04,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+19892,Biona Spelt Noodles 250g,3.99,4.15,0.25,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19898,Biona Pumpernickle Bread 500g,3.32,3.45,0.75,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19907,Servivita Spicy Chilli 320ml,4.24,4.35,1.0,p,False,False,,organic,Organic; Dietary Food; SERVIVITA
+19929,Tezori Gluten Free Vegan Ftira 200g,1.9,1.99,0.2,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+19933,Schar Fette Croccanti Toast 150g,1.94,2.05,0.15,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19934,Rebeko Mayonnaise Sauce 425ml,5.57,5.99,0.43,l,False,False,,organic,Organic; Dietary Food
+19944,Sanum Per Fructus Acacia Honey 300g,5.73,6.03,1.0,p,False,False,,organic,Organic; Dietary Food
+19947,Pensa Bio Pearly Spelt 500g,3.61,3.75,0.5,kg,False,False,,organic,Organic; Dietary Food
+19962,Radisson Diet Whole Rice Cakes 130g,1.94,1.99,0.13,kg,False,False,,organic,Organic; Radisson; Dietary Food
+19974,Skinny Bar Cookies & Cream 60g,2.26,2.4,0.06,kg,False,False,,organic,Organic; Low Fat products; Dietary Food
+19983,Aubergines Organic,3.7,3.7,1.0,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+19988,Sz Dolce Soffice No Added Sugars 650g,14.07,15.0,0.65,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19992,Mr.yummy Black Cookie Protein Bagel 60g,1.92,1.99,0.06,kg,False,False,,organic,Organic; Dietary Food
+20005,Riso Scotti Bio Rice And Almond 1l,2.47,2.75,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20035,Plants Smooth Roasted Almond Butter With Ginger Cinnamon & Vanilla 170g,5.28,5.5,0.17,kg,False,False,,organic,Organic; Dietary Food
+20049,Pensa Bio Biscotti Integrali Farro Uvetta Bacche Goji Bio  250g,3.94,4.09,0.25,kg,False,False,,organic,Organic; Dietary Food
+20051,Apples ( Organic Apples ),8.16,8.16,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20068,Skinny Crunch Chocolate Hoops & Marshmallows Cereal 375g,4.18,4.5,0.38,kg,False,False,,organic,Organic; Dietary Food
+20072,Servivita Balsamic Dressing  320ml,4.24,4.35,1.0,p,False,False,,organic,Organic; Dietary Food; SERVIVITA
+20079,Riso Scotti Riso Vital Soya 1l,1.48,1.65,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20090,Body Attack Protein Donut Blueberry 60g,2.64,2.75,0.06,kg,False,False,,organic,Organic; Dietary Food
+20091,Orgran Pasta Garden Veggie Spirals 350g,4.97,5.3,0.35,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20092,Trevijano Quinoa 1kg,8.95,11.0,0.1,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20094,Whole Earth Butter Original Smooth Peanut 1kg,11.76,12.25,1.0,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20110,Im Protein Creme Choc Almond 250g,7.39,7.95,0.25,kg,False,False,,organic,Organic; Dietary Food
+20113,Pellito Lov Almond & Greek Raisin Oat Bites 70g,2.16,2.25,0.07,kg,False,False,,organic,Organic; Gluten Free Products; Pellito; Dietary Food
+20119,Pensa Bio Curry 40g,3.18,3.3,0.04,kg,False,False,,organic,Organic; Dietary Food
+20143,Vivo Shaker,13.35,13.9,1.0,p,False,False,,organic,Organic; Dietary Food
+20158,Genuine Coconut Chips Vanilla & Cacao 34g,1.25,1.75,0.03,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20160,Biona Organic Tempeh 400g,5.24,5.45,0.4,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+20166,Made Good Granola Bars Chocolate Chip 144g,4.14,4.3,0.14,kg,False,False,,organic,Organic; Madegood; Organic Food; Dietary Food
+20183,Rummo Legume Maccheroncelli 300g,2.65,3.4,0.3,kg,False,False,,organic,Organic; Rummo; Gluten Free Products; Dietary Food
+20196,Pukka Organic Turmeric Gold X20,6.07,6.5,20.0,p,False,False,United Kingdom,organic,Organic; Pukka; Dietary Food
+20237,Brain Foods Flapjack Chocolate & Orange 70g,2.79,2.98,0.07,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+20243,Doves Farm Flour Gluten Free White Bread 1kg,4.08,4.25,1.0,kg,False,False,,organic,Organic; Gluten Free Products; Doves Farm Organic; Dietary Food
+20246,Delba Organic Sunflower Seed Bread,1.98,2.15,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20251,Lovemore Stem Ginger Cookies 150g,4.95,5.5,0.15,kg,False,False,,organic,Organic; Lovemore; Dietary Food
+20253,Orgran Spliits Pumpkin 125g,4.03,4.3,0.13,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20266,Healthy Leaf Chocolate Organge Truffles 135g,5.8,5.99,0.14,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; HEALTHY LEAF
+20279,Pukka Organic Three Ginger X20,6.07,6.5,20.0,p,False,False,,organic,Organic; Pukka; Dietary Food
+20286,Orgran Mix Brownie Choc 400g,5.02,5.35,0.4,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Orgran
+20309,Orgran Pasta Rice & Corn Macaroni Large 350g,4.97,5.3,0.35,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20312,Deliciously Ella Apple Oat Bar 50g,1.73,1.8,0.05,kg,False,False,,organic,Organic; Dietary Food
+20326,Schar Pasta Pipe 500g,2.98,3.15,0.5,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+20332,Rice Up Rice Cakes 120g Super Seeds,1.24,1.29,0.12,kg,False,False,,organic,Organic; Rice Up; Gluten Free Products; Dietary Food
+20334,Rice Up Bar Dark Chocolate Orange 18g,0.39,0.45,0.02,kg,False,False,,organic,Organic; Rice Up; Dietary Food
+20336,Purasana Vegan Protein Mix 55%pea Sunflower Hemp Banana 400g,19.19,20.2,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20340,Nature Oat & Almond Drink 1l,2.13,2.45,1.0,l,False,False,,organic,Organic; Dietary Food; Nature; Dairy Free Products
+20352,Riso Scotti Riso Vital Rice Coconut Added Sugar 1l,1.8,2.0,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20353,Deliciously Ella Hazelnut Nut Butter Balls 36g,2.11,2.2,0.04,kg,False,False,,organic,Organic; Dietary Food
+20375,Gen Veg Taro Truffata Chips 45g,1.75,2.25,0.05,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20377,Pasta Natura Gluten Free Oat Flour 250g,2.98,3.1,0.25,kg,False,False,,organic,Organic; Dietary Food
+20380,The Beginnings Oat Caramel Cookies Soft Baked 80g,3.6,3.75,0.08,kg,False,False,,organic,Organic; Dietary Food
+20402,Nairns Oatcakes Gluten Free Oat Cakes 200g,3.46,3.6,0.2,kg,False,False,,organic,Nairn'S; Organic; Gluten Free Products; Dietary Food
+20408,Mestemacher Sunflower Bread 500g,2.6,2.75,0.5,kg,False,False,,organic,Organic; Mestemacher; Dietary Food
+20410,Diablo Sugar Free Chocolate Muffin 45g,0.77,0.99,0.05,kg,False,False,,organic,Organic; Dietary Food; Diablo
+19755,Schesir Cat Food Tuna Chicken & Shrimp 85g,1.33,1.45,0.09,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+19784,Beef W. Spaezle & Courgettes - 125g,1.44,1.52,0.13,kg,False,False,,pets,Pets; Dog Dried Food; Pet Food
+19803,Princess Premium Gld Chicken & Tuna & Rice & Scal Lvr & Urni 170g,1.96,2.25,0.17,kg,False,False,,pets,Other Pet Food; Pets; Princess; Pet Food
+19810,Trixie Fur Care Glove,5.75,5.81,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+19819,"Trixie Premio Chicken Cheese Stripes, 100g",2.92,2.95,1.0,p,False,False,,pets,Other Pet Food; Pets; Trixie; Pet Food
+19824,Little Bigpaw Gourmet Atlantic Salmon Mousse 85g,1.35,1.36,0.85,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+19826,Monge Dog Fruit Salmon Pear Pate & Chunks 100g,1.28,1.35,0.1,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+19843,Amore Mio Salviettine Cani E Gatti X 36 Pz.,2.55,3.25,1.0,p,False,False,,pets,Other Pet Food; Pets; Amore Mio; Pet Food
+19859,Monge Dog Solo Rabbit 150g,1.99,2.11,0.15,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+19864,Schesir Dog Food Medium Main Fish 3kg,12.23,13.44,3.0,kg,False,False,,pets,Pets; Dog Dried Food; Pet Food
+19882,Vitakraft Royal Bones 60g,2.13,2.29,0.06,kg,False,False,,pets,Other Pet Food; Pets; Pet Food
+19890,"Chewing Bone, Pressed, 10 Cm, 3 × 33 G",2.11,2.13,1.0,p,False,False,,pets,Other Pet Food; Pets; Trixie; Pet Food
+19899,Vitakraft Dog Maxis Sausages 180g,2.98,3.25,0.18,kg,False,False,,pets,Other Pet Food; Pets; Pet Food
+19915,Attitude Pet Air Purifier Lavender,6.71,6.99,1.0,p,False,False,,pets,Pets; Pet Hygiene
+19931,Iams 12x85g,6.95,7.5,0.09,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+19936,Encore Dog Tin Ckn Ham Veg 156g,1.64,1.8,0.16,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+19938,Chipsi Plus Strawberry 15l,1.95,1.99,1.0,p,False,False,,pets,Pets; Pet Hygiene
+19960,Purina One Urinary Care Adult Chicken And Wheat Dry 750g,5.3,6.03,0.75,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Purina; Pet Food
+19966,Schesir Dog Food Chicken & Beef 150g,1.81,1.99,0.15,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+19977,Duck W. Rice & Lingonberry - 125g,1.44,1.52,0.13,kg,False,False,,pets,Pets; Dog Dried Food; Pet Food
+19982,Dreamies Cheese 60g,1.89,1.93,0.06,kg,False,False,,pets,Other Pet Food; Pets; Dreamies; Pet Food
+19990,Kidney Turtle Bowl Small,2.93,2.99,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+19997,Princess Pouch Chicken & Tuna Rice & Shrimp Urinary 70g,1.31,1.59,0.07,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Princess; Pet Food
+20018,Lily's Kitchen Dog Food Slow Cooked Lamb Hotpot 400g,3.5,3.65,0.4,kg,False,False,,pets,Lily; Pets; Dog Tinned and Pouch Food; Pet Food
+20019,Princess Premium Chicken Tuna & Shrimp 70g,1.23,1.49,0.07,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Princess; Pet Food
+20086,Lily's Kitchen Dog Dry Food Organic Chicken Bake 1kg,12.46,12.99,1.0,kg,False,False,,pets,Lily; Pets; Dog Dried Food; Pet Food
+20127,Vitakraft Boony Bits Medium 120g,2.19,2.35,0.12,kg,False,False,,pets,Other Pet Food; Pets; Pet Food
+20150,Monge Lechat Dry Kitten Chicken & Rice 1.5kg,5.64,5.95,1.5,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+20192,Leonardo Kitten 2kg,20.78,21.87,2.0,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20197,Miglior Gatto Litter 5kg,3.22,3.71,4.0,kg,False,False,,pets,Pets; Miglior Cane; Dog Tinned and Pouch Food; Pet Food
+20250,Rhinestone Cat Harness + Leash Small,5.87,5.99,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+20274,Whiskas Sticks Salmone 18g,1.25,1.5,0.02,kg,False,False,,pets,Other Pet Food; Whiskas; Pets; Pet Food
+20301,"Trixie Kitty Collar, Flower & Butterfly, Reflective, 8 Mm",2.59,2.62,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+20303,Trixie Christmas Gingerbread Dangling Toy Plush 28cm,9.58,10.08,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+20368,Sheba Fresh & Fine Fish Pouches 6x50g,3.95,4.04,6.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Sheba; Pet Food
+20369,Schesir Cat Food Food Tuna & Hake 85g,1.33,1.45,0.09,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20401,Whiskas Duo Mariemonti 4x85gr.,2.95,3.45,0.34,kg,False,False,,pets,Cat Tinned and Pouch Food; Whiskas; Pets; Pet Food
+20442,Natural Code Cat Pou Beef 70g,1.22,1.28,1.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20457,Pure Chicken - 400g,2.65,2.79,1.0,p,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+20470,Princess Premium Nature's Power Chicken 200g,1.89,2.29,0.2,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Princess; Pet Food
+20486,Miglior Cane Unico Adult Medium Pate Turkey 400g,1.58,1.83,0.4,kg,False,False,,pets,Pets; Dog Dried Food; Miglior Cane; Pet Food
+20488,Purina Gourmet Perle Chef Collection 40x85g,20.59,23.41,40.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Purina; Pet Food
+20497,Felix As Good As It Looks Chicken 100g,0.55,0.62,0.1,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Felix; Pet Food
+20559,Gourmet Perle Wet Cat Food Seaside Duo 12x85g,7.81,8.88,12.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Gourmet; Pet Food
+20591,Prince Ocean's Bounty With Papaya & Apple 400g,2.46,2.99,0.4,kg,False,False,,pets,Pets; Prince; Dog Tinned and Pouch Food; Pet Food
+20604,Encore Cat Pch Ckn Rce 70g,1.23,1.35,0.07,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20663,Little Bigpaw Gourmet Tender Chicken Mousse 85g,1.35,1.36,0.85,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20676,Princess Premium Class Chicken Lamb & Rice 170g,1.89,2.29,0.17,kg,False,False,,pets,Other Pet Food; Pets; Princess; Pet Food
+20688,Princess Lifestyle Pouches Chunks Salmon 100g,0.82,0.99,0.1,kg,False,False,,pets,Cat Dried Food; Pets; Princess; Pet Food
+20689,Monge Dog Fresh Lamb Foil 100g,1.28,1.35,0.1,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+20737,Schesir Chicken & Pumpkin 285g,2.87,3.15,0.29,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+20742,Natural Code Snack Adult Manzo E Curcuma 60g,1.9,2.0,1.0,p,False,False,,pets,Other Pet Food; Pets; Pet Food
+20743,Kidney Turtle Bowl Lg,5.39,5.5,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+20751,Schesir Tuna & Mango 75g,1.44,1.59,0.08,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20752,Schesir Chicken & Aloe 140g,1.9,2.09,0.14,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20783,Padovan Aqua Gold 100ml,2.21,2.34,0.1,l,False,False,,pets,Other Pet Food; Pets; Pet Food
+20825,Rabbit Cage 85 X 49 X 37 Cm,28.91,29.5,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+20829,Van Cat Grey 10l,9.57,10.53,10.0,l,False,False,,pets,Pets; Pet Hygiene
+20848,Pedigree Treat Beef Rodeo 4 Pcs 70g,1.25,1.28,0.07,kg,False,False,,pets,Pets; Dog Dried Food; Pedigree; Pet Food
+20855,Vitakraft Poesie Mousse Pollo/chick 85g,0.79,0.85,0.09,kg,False,False,,pets,Other Pet Food; Pets; Pet Food
+20896,Leonardo Fish & Shrimp,1.3,1.37,1.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20901,Bird Toy,4.89,4.99,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+20904,Pedigree Dry Beef 3kg,9.9,10.12,3.0,kg,False,False,,pets,Pets; Dog Dried Food; Pedigree; Pet Food
+20911,Pedigree Tasty Minis Cheesy Nibbles 140g,1.96,2.0,0.14,kg,False,False,,pets,Pets; Dog Dried Food; Pedigree; Pet Food
+20923,Vitakraft Poesie Creation Sauce Crrt+beef 85g,0.79,0.85,0.09,kg,False,False,,pets,Other Pet Food; Pets; Pet Food
+20925,Princess Taste Of Nature Salmon 500g,5.97,6.86,0.5,kg,False,False,,pets,Cat Dried Food; Pets; Princess; Pet Food
+20951,Leonardo Venison+blueberry,1.3,1.37,1.0,p,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+20973,"Trixie Denta Fun Chewing Sticks, Chicken",2.28,2.3,1.0,p,False,False,,pets,Other Pet Food; Pets; Trixie; Pet Food
+20974,Felix Sensations Chicken&carrot 85g,0.57,0.65,0.09,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Felix; Pet Food
+20989,Monge Dog Fresh Salmon Foil 100g,1.28,1.35,0.1,kg,False,False,,pets,Pets; Dog Tinned and Pouch Food; Pet Food
+20990,Schesir Chicken Fillet & Ham 140g,1.9,2.09,0.14,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Pet Food
+21002,Gourmet Gold Chicken 85g,0.81,0.96,0.09,kg,False,False,,pets,Cat Tinned and Pouch Food; Pets; Gourmet; Pet Food
+21012,Kirkland Siganture Extra-large Absorbent Pads 100pk,39.95,42.0,1.0,p,False,False,,pets,Other Pet Food; Pets; Kirkland; Pet Food
+21041,Prince Premium Class Pacific Tuna & Rice 170g,1.89,2.29,0.17,kg,False,False,,pets,Pets; Prince; Dog Tinned and Pouch Food; Pet Food
+21085,Whiskas Casserole Meat Classic Selection 4pack,2.75,2.85,1.0,p,False,False,,pets,Cat Tinned and Pouch Food; Whiskas; Pets; Pet Food
+21089,Trixie Rainbow Balls 4pcs,1.95,2.05,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+21123,Trixie Bird,7.77,7.85,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+21164,Bird Toy,1.95,1.99,0.0,,False,False,,pets,Other Pet Food; Pets; Pet Items
+21189,"Trixie Cooling Bone, Natural Rubber, 11 Cm",5.26,5.31,1.0,p,False,False,,pets,Pets; Trixie; Pet Accessories
+21190,Pet Lifestyle & You Merry Woofmas Santas Little Elf-er,9.58,9.99,1.0,p,False,False,,pets,Pets; Pet Accessories
+19583,Sella & Mosca Cannonau Di Sardegna 750ml,10.86,11.49,0.75,l,False,False,Italia,winecellar,Wines; Sella & Mosca; Wine Cellar; Foreign Wines
+19587,Kaiserdom Lemon Zero Alcohol 500ml,1.15,1.5,0.5,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19603,Contrada Monte Gorna Etna Rosso Bio 750ml,15.95,20.5,0.75,l,False,False,,winecellar,NICO; Wines; Wine Cellar; Foreign Wines
+19626,Malibu 70cl,15.7,15.95,0.7,l,False,False,,winecellar,Malibu; Wine Cellar; Spirits
+19628,Farina Amarone Della Valpolicella 750ml,42.79,44.81,1.0,p,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19652,Bollinger Special Cuvee 75cl,47.82,49.02,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19654,Brussels Beer Project Jungle Joy 330ml,3.44,3.7,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19663,Bordeaux Blanc Calvet Reserve Calvet 750ml,8.87,9.23,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19665,Blossom Hill White Zinfandel 750ml,6.8,7.25,0.75,l,False,False,,winecellar,Wines; Blossom; Wine Cellar; Foreign Wines
+19672,El Monstruo Malbec Bonarda Arg. 75cl,9.83,10.4,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19675,Bolla Soave 2021 37.5cl,5.93,6.61,0.38,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19686,9 Mile Vodka 700ml,18.88,19.28,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19691,Nicosia Generazione 898 Merlot Igt 750ml,5.98,7.45,0.75,l,False,False,,winecellar,NICO; Wines; Wine Cellar; Foreign Wines
+19697,Prosecco Frizzante Docg Corda Gold 750ml,8.25,10.2,0.75,l,False,False,,winecellar,Champagne and Sparkling Wine; Tonon; Wines and Champagne; Wine Cellar
+19702,B&g Beaujolais Villages Passeport 2020 700ml,9.57,10.95,0.7,l,False,False,France,winecellar,Wines; Wine Cellar; Foreign Wines
+19703,Mureda Cabernet Sauvignon Organic 750ml,3.93,4.39,0.75,l,False,False,,winecellar,Wines; Mureda; Wine Cellar; Foreign Wines
+19722,Cignale 2012,54.6,65.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19725,La Traversata Vermentino Toscana 75cl,6.95,8.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19729,Kirin Ichiban Btls 330ml,1.75,2.59,0.33,l,False,True,,winecellar,Beer and Ciders; Nabeer; Wine Cellar; Beers
+19768,Malfy Original 70cl,34.75,34.82,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19771,La Chica Gold Tequila 70cl,14.68,14.92,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19772,Caleo 2021 Negroamaro Igt 750ml,5.18,5.5,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Caleo
+19777,Jp Chenet Fashion Watermelon 750ml,6.95,7.99,0.75,l,False,False,,winecellar,Wines; J.P. Chenet; Wine Cellar; Foreign Wines
+19779,Etsu Japanese Gin 43% - 6x70cl,42.88,45.8,0.7,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19806,Deutz Champagne Rose Classic 75cl,71.47,76.57,0.75,l,False,False,,winecellar,Champagne and Sparkling Wine; Wines and Champagne; Wine Cellar
+19809,Triplica Greco Di Tufo Triplica 75cl,12.07,12.46,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19811,Pitters Tawny Port 750ml,10.22,10.99,0.75,l,False,False,,winecellar,Wine Cellar; Port and Sherry Wine
+19828,Vinironia Prosecco Organic 750ml,10.45,11.09,0.75,l,False,False,,winecellar,Wine Cellar; Spirits
+19839,Bacchus Vermentino 75cl,5.48,6.08,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19854,Corvezzo Bianco Sauvignon 75cl,7.95,9.95,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19855,Freixenet Pinot Grigio Garda Doc 750ml,10.42,10.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19857,Frontera Cabernet Sauvignon 750ml,4.67,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Frontera
+19879,Moscato D'asti 2022,5.49,7.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19880,Chimay Gold 330ml,3.08,3.13,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19891,Flinders Rose,3.49,3.55,0.33,l,False,True,,winecellar,Beer and Ciders; Lord Chambray; Wine Cellar; Beers
+19893,Clarendelle Medoc Rouge 750ml,22.47,24.4,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19903,19 Crimes The Banished 750ml,11.37,11.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19919,Hawkes Pineapple Punch Cider 330ml Can,2.87,2.95,0.33,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19954,Fireball Cinnamon  Whisky Liquor 70cl,17.62,17.98,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+19964,Kalinska Vodka 1l,11.98,12.98,1.0,l,False,False,,winecellar,Wine Cellar; Spirits
+19981,Sierra Atomic Torpedo 355ml,2.87,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+19986,Zeppi's Rummiena 500ml,9.95,10.76,0.5,l,False,False,,winecellar,Liquours; Zeppi; Wine Cellar; Spirits
+19994,Miguel Torres Santa Digna Sauvignon Blanc Vegan 750ml,7.82,8.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+19995,Rustico Rose 75cl,6.35,7.08,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20009,Diplomático Planas Ultra Premium White Rum 47%,32.26,33.19,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20017,Kumala Reserve Chenin Blanc 750ml,8.52,8.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20024,Surrau Sole Di Surrau 375ml,19.95,26.0,0.38,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20030,Verdala Frizzante Girgentina 750ml,4.98,5.59,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20034,Casillero Del Diablo Sauvignon Blanc 750ml,6.99,8.99,0.75,l,False,False,,winecellar,Casillero; Wines; Wine Cellar; Foreign Wines
+20037,Chenin Blanc Cape Creek 750ml,5.8,6.04,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20039,Papa Figos Portugal 750ml,12.05,12.59,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20048,Jp Chenet Ice Edition Sparkling Blanc 750ml,6.63,8.5,0.75,l,False,False,,winecellar,Wines; J.P. Chenet; Wine Cellar; Foreign Wines
+20057,Talisker Storm 700ml,61.89,62.87,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20065,Conde Jose Sauvignon Blanc 75cl,8.82,10.5,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20076,Drumshanbo Gunpowder Irish Gin With Sardinian Citrus 700ml,45.61,47.26,0.7,l,False,False,,winecellar,Wine Cellar; Spirits
+20093,Puiss Saintemilion Chatmoulindecurat 750ml,17.95,19.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20098,Leopard's Leap Chenin Blanc 750ml,8.21,9.17,0.75,l,False,False,South Africa,winecellar,Wines; Wine Cellar; Foreign Wines
+20111,Les Breteches Rouge Chateau Kefraya Lebanon 75cl,13.22,13.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20116,Sierra Nevada California Ipa Can 355ml,2.9,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20126,Franziskanser Dunkel 500ml,2.25,2.5,0.5,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20136,Sierra Torpedo Can 355ml,2.87,2.96,0.36,l,False,True,,winecellar,Beer and Ciders; Wine Cellar; Beers
+20139,Flor De Vetus Do Rueda 75cl,9.95,13.37,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20142,J.koll Liebfraumilch Blue Bottle 750ml,7.09,7.14,0.75,l,False,False,,winecellar,Wine Cellar; Spirits
+20149,Leasingham Jam Shed Malbec 750ml,5.68,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20175,Santero 958 Rossini 750ml,7.61,7.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20180,Marsovin Citadella White 750ml Exc Empty Bottle,3.68,4.11,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20191,Chateau Laurens Lnguedoc Faugere Bio 75cl,9.95,12.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20201,Calvet Cabernet Sauvignon 2019 750ml,5.73,5.99,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20202,Paolini Vino Frappato 75cl,3.95,4.75,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20205,Nicosia Spumante Gari' Grillo Doc Sicilia 750ml,8.98,11.25,0.75,l,False,False,,winecellar,NICO; Champagne and Sparkling Wine; Wines and Champagne; Wine Cellar
+20206,Barone Di Bernaj Cabernet Sauvignon 75cl,3.95,4.29,0.75,l,False,False,,winecellar,Wines; BARONE DI BERNAJ; Wine Cellar; Foreign Wines
+20218,Ulysses Chenin Chardonnay 750ml,11.26,12.03,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Marsovin; Local Wine
+20221,Tommasi Ripasso Valpolicella 750ml,31.61,33.45,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20223,Jacobs Creek Shiraz Cabernet Classic 750ml,8.69,9.69,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines; Jacob'S Creek
+20232,Curatolo Zibibbo Liquoroso 750ml,18.82,19.91,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20236,Chateau Moulinet La Serre 750ml,39.85,52.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20240,Montecore Primitivo 75cl,5.95,8.0,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20241,"Dewar's Scotch Whisky White Label, 700ml",13.91,16.99,0.7,l,False,False,,winecellar,DEWARS; Wine Cellar; Spirits
+20245,Canti Cuvee Dolce Rose 750ml,8.11,8.53,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines
+20272,Viu Manent Malbec Rose 750ml,8.63,8.83,0.75,l,False,False,,winecellar,Wines; Wine Cellar; Foreign Wines

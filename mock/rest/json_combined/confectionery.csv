@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19569,The Jelly Bean Factory 36 Huge Flavour Gourmet Popabean Can 100g,3.48,3.71,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; The Jelly Bean Factory; Sweets
+19578,Barilla Penne Rigate Integrale 500g,1.64,1.95,0.5,kg,False,False,Italia,confectionery,White Pasta; Barilla; Confectionery; Pasta Rice and Couscous
+19590,Mackie's Sea Salt & Vinegar 150g,2.38,2.44,0.15,kg,False,False,,confectionery,Mackies; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19601,Mr Riley Cheesy Rings 23g,0.8,0.8,0.02,kg,False,False,Italia,confectionery,Riley'S; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19608,Rummo Fettuccine All Uovo 250g,1.79,2.3,0.25,kg,False,False,Italia,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+19612,Kettle Chips Thai Sweet Chilli 130g,2.66,2.89,0.13,kg,False,False,,confectionery,Kettle Chips; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19617,Rummo Spaghettini 500g,1.15,1.8,0.5,kg,False,False,,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+19634,Valor 70% Dark Chocolate Orange Stevia 100g,2.36,2.45,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19645,Henderson & Sons Dip Guacamole 300g,2.98,3.5,0.3,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19655,Valor 70% Dark Chocolate Salt 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19668,Walkers Salt And Vinegar 32.5g,0.8,0.8,0.0,,False,False,United Kingdom,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19677,Relkon Egg My Little Pony Heart,1.42,1.5,0.01,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19681,Jolly Rancher Awesome Twosome Chews 184g,3.75,4.0,0.18,kg,False,False,,confectionery,JOLLY RANCHER; Chocolates and Sweets; Confectionery; Sweets
+19694,Polo Sugar Free 33.4g,0.82,0.82,0.03,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Polo
+19717,Alberto Poiatti Stelline 500g,0.85,1.24,0.5,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Poiatti
+19719,Chocolate & Mint,2.5,2.5,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19720,Dais Croissants Chocolate 8pk,2.25,2.71,1.0,p,False,False,,confectionery,Pastries and Prepacked Cakes; Dais; Croissants; Confectionery
+19724,Mister Free`d Vegan Tortilla Chips Cheese 135g,2.95,2.99,0.14,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19743,Jouyco Flurries Cocoa 120g,1.07,1.2,0.12,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19763,Pectol Eucalyptus 19.2g,0.85,0.85,0.02,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Pectol; Sweets
+19765,Walkers Quavers Cheese 20.5g,0.99,1.05,0.02,kg,False,False,United Kingdom,confectionery,Walkers; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19770,Dais Croissants Cream 8pk,2.25,2.71,1.0,p,False,False,,confectionery,Pastries and Prepacked Cakes; Dais; Croissants; Confectionery
+19775,Lindt Lindor Milk Balls 337g,10.8,12.0,0.34,kg,False,False,,confectionery,Chocolates and Sweets; Lindt; Confectionery; Chocolates
+19776,"La Molisana Linguine Bronzo N.6, 500g",1.08,1.65,0.5,kg,False,False,,confectionery,White Pasta; La Molisana; Confectionery; Pasta Rice and Couscous
+19780,Funlab Ice Pop Dippers 30g,0.98,1.35,0.03,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19815,Chupa Chups Lollipops,0.42,0.42,200.0,p,False,False,,confectionery,Chocolates and Sweets; Chupa Chups; Confectionery; Sweets
+19822,Cheese & Onion 32.5g,0.95,0.95,0.0,,False,False,United Kingdom,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+19835,Elledi Double Wafer Lemon 125g,1.8,1.89,0.13,kg,False,False,Italia,confectionery,Elledi; Chocolates and Sweets; Confectionery; Wafers
+19842,Valor 70% Dark Chocolate Raspberry 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+19845,Parfetti Morositas Liquirizia Senza Zucchero,1.12,1.15,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19847,Gusparo Roll Frutta 200g,1.54,1.69,0.2,kg,False,False,Italia,confectionery,Chocolates and Sweets; Gusparo; Confectionery; Wafers
+19861,Barilla Fusilli 98 1000g,2.15,2.55,1.0,kg,False,False,,confectionery,White Pasta; Barilla; Confectionery; Pasta Rice and Couscous
+19863,Meiji Hazelnut Yan Yan .44g,1.49,1.75,0.04,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19870,Cadbury Twirl 43g,0.94,1.0,0.04,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+19886,Cadbury Bournville 180g,3.51,3.75,0.18,kg,False,False,United Kingdom,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+19888,Agnesi Lasagne 500g,2.34,2.49,0.5,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Agnesi
+19914,Ritter Butter Biscuit 100g,1.95,1.95,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Ritter Sport; Confectionery; Chocolates
+19922,"Plain Sponge, 20cm",2.95,2.95,1.0,p,False,False,Malta,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19924,La Molisana Fettucine 5 500g,1.08,1.65,0.5,kg,False,False,Italia,confectionery,White Pasta; La Molisana; Confectionery; Pasta Rice and Couscous
+19926,Bebeto Ocean Park 80g,1.14,1.27,0.08,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19930,Pavesi Togo Cioccolato Classico 120g,2.95,3.5,0.12,kg,False,False,Italia,confectionery,Chocolates and Sweets; Pavesi; Confectionery; Chocolates
+19937,Lol Red Mix Strawberry 110g,1.58,1.75,20.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19940,Cavendish & Harvey Mixed Fruit Candies Decorative Jar 966g,7.53,7.85,0.97,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+19946,Jouyco Chocomallow 150g,1.45,1.75,0.15,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+19950,Frit Ravich Wheels 85g,1.98,2.1,0.09,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Frit
+19953,Jannis Hazel Nut Bar 40g,1.45,1.49,0.04,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Jannis
+19965,Cavendish & Harvey Wine Gums 180g,1.9,1.98,0.18,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+19978,Cote D'or Wholenut 3+1free 4x45g,3.38,3.6,0.05,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cote D'Or
+19987,Jack Links Beef Jerky Biltong Clipstrip 25g,2.75,2.89,0.03,kg,False,False,,confectionery,Jack Link'S; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20004,Catch Dark Chocolate 50g,0.72,0.75,0.05,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates
+20026,Cachet Pear & Almonds Chocolate 100g,2.42,2.49,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cachet
+20043,Benn Candies Soft 250gr,1.5,1.85,0.25,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20044,Loacker Tortina Original 21g,0.6,0.6,0.02,kg,False,False,,confectionery,Chocolates and Sweets; Loacker; Confectionery; Wafers
+20067,"Muffins Vanilla, X 6",3.5,3.5,1.0,p,False,False,Malta,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20080,Pata Neutro Crisps 300g,4.15,4.39,0.3,kg,False,False,Italia,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Pata
+20089,Rummo Calamarata 500g,2.18,2.8,0.5,kg,False,False,,confectionery,Rummo; White Pasta; Confectionery; Pasta Rice and Couscous
+20100,De Cecco Polpa Di Pomodoro Corposa 690g,1.73,1.99,0.69,kg,False,False,,confectionery,De Cecco; White Pasta; Confectionery; Pasta Rice and Couscous
+20106,Pringles Small Hot Paprika  40g,1.05,1.1,0.04,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery; Pringles
+20112,M&ms Peanut Bag 165g,3.12,3.19,0.17,kg,False,False,,confectionery,Chocolates and Sweets; M&M'S; Confectionery; Chocolates
+20118,Buitoni Golden Rusks 300g,2.75,3.25,0.3,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Buitoni; Confectionery
+20120,Morato Nuvo Latte Classico X10,3.1,3.25,10.0,p,False,False,Italia,confectionery,Merendine; Morato; Confectionery
+20124,Milka Oreo 100g,1.86,1.99,0.1,kg,False,False,,confectionery,Milka; Chocolates and Sweets; Confectionery; Chocolates
+20125,M&ms Hollow Chocolate Santa 100g,3.45,3.6,0.1,kg,False,False,,confectionery,Chocolates and Sweets; M&M'S; Confectionery; Chocolates
+20133,Mackie's Tangy Tomato 150g,2.38,2.44,0.15,kg,False,False,,confectionery,Mackies; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20144,Alberto Poiatti Spaghetti 1kg,1.35,2.37,1.0,kg,False,False,,confectionery,White Pasta; Confectionery; Pasta Rice and Couscous; Poiatti
+20167,Cachet Blackberry & Ginger Chocolate 100g,2.42,2.49,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cachet
+20168,Kuchenmeister Sponge Fruit Flan 200g,3.2,3.29,0.2,kg,False,False,,confectionery,Pastries and Prepacked Cakes; Kuchen Meister; Cakes; Confectionery
+20172,Cadbury Family Treat Size 222g,3.74,3.99,0.22,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Cadbury
+20229,Lemon Cheesecake 20cm,22.0,22.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20235,Valor 70% Dark Chocolate Caramel 100g,2.07,2.15,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Confectionery; Chocolates; Valor
+20238,Chocolate Cake 24cm,28.0,28.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20239,Aunt Mabel's Muffin Carrot 100g,1.7,1.9,0.1,kg,False,False,,confectionery,Aunt Mabel'S; Confectionery; Muffins
+20255,San Carlo Chips Dore Classico Bar 45g,1.92,1.99,0.05,kg,False,False,,confectionery,Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20259,Cavendish & Harvey Tropical Selection Candies - Decorative Jar 300g,3.36,3.5,0.3,kg,False,False,,confectionery,Chocolates and Sweets; Cavendish & Harvey; Confectionery; Sweets
+20261,Dietorelle Strawberry Gums 70g,2.66,2.73,0.07,kg,False,False,Italia,confectionery,Chocolates and Sweets; Confectionery; Sweets; Dietorelle
+20265,Hazelnuts & White Chocolate Crunch Gateaux 20cm,22.0,22.0,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20271,Mixed Assorted Sweets,0.55,0.55,1.0,p,False,False,,confectionery,Chocolates and Sweets; Confectionery; Sweets
+20289,Haribo Tropi Frutti Pack 200g,2.05,2.15,0.2,kg,False,False,,confectionery,Chocolates and Sweets; Haribo; Confectionery; Sweets
+20295,Cofresh Hummus Chips Sea Salt 135g,2.49,2.55,0.14,kg,False,False,,confectionery,Cofresh; Snacks and Crisps; Crisps Popcorn And other Snacks; Confectionery
+20306,Ritter Chopped Hazelnuts 100g,1.95,1.95,0.1,kg,False,False,,confectionery,Chocolates and Sweets; Ritter Sport; Confectionery; Chocolates

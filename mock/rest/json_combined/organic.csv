@@ -1,0 +1,81 @@
+product_id,product,salesprice,salespricerrp,sizevalue,sizeunit,isWeighted,bcrs,country,category,labels
+19670,Smart Organic Sesame Seeds 250g,2.74,2.85,0.25,kg,False,False,,organic,Organic; Smart Organic; Organic Food; Dietary Food
+19676,Misura Biscotti Fibrextra Integrali 330g,3.06,3.29,0.33,kg,False,False,,organic,Organic; Misura; Dietary Food
+19688,Alpro Yofu Nas Single Passion Fruit 135g,1.53,1.85,0.14,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Alpro
+19701,Kelkin Peanut Butter Smooth 350g,4.12,4.4,0.35,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Kelkin
+19704,Powerbar Natural Energy Bar Vegan Sweet And Salty 40g,1.42,1.49,0.04,kg,False,False,,organic,Organic; Dietary Food
+19718,Biona Rye Bread Amaranth 500g,3.37,3.5,0.5,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19736,Damhert Apricot Jam 210g,2.58,2.86,0.21,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19739,Pensa Bio Pealed Sunflower Seeds 250g,2.54,2.65,0.25,kg,False,False,,organic,Organic; Dietary Food
+19742,Vitalp Sugar Free Orange 25g,1.2,1.2,0.25,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19745,Biona Cider Vinegar Mother 750ml,4.28,4.45,0.75,l,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19747,Dragon Tapioca Flour 200g,2.92,3.0,0.2,kg,False,False,,organic,Organic; Dragon; Organic Food; Dietary Food
+19757,Biona Agave Light Syrup 700g,8.95,9.3,0.7,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19758,Dragon Immunity Mix 150g,12.51,13.0,0.15,kg,False,False,,organic,Organic; Dragon; Dietary Food
+19766,Eat Real Chips Straws Veggie Kale 113g 66c Off,1.89,2.55,0.11,kg,False,False,,organic,Organic; Dietary Food; Eat Real
+19781,Bombus Raw Energy Maracuja & Coconut 50g,0.95,0.99,0.05,kg,False,False,,organic,Organic; Dietary Food
+19792,Servivita Bbq Sauce 320ml,4.19,4.35,0.32,kg,False,False,,organic,Organic; Dietary Food; SERVIVITA
+19797,Meridian Peanut & Coconut Butter 280g,5.6,6.21,0.28,kg,False,False,,organic,Organic; Dietary Food; Meridiana
+19799,Schar Cereal Flakes 300g,4.05,4.29,0.3,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19814,Dragon Turmeric Curcuma Powder 150g,4.33,4.5,0.15,kg,False,False,,organic,Organic; Dragon; Organic Food; Dietary Food
+19817,Rice Up Rice Cakes Millet & Amaranth 120g,1.13,1.29,0.12,kg,False,False,,organic,Organic; Rice Up; Gluten Free Products; Dietary Food
+19848,Pasta Natura Organic Gluten Free Penne Peas 250g,2.56,2.75,0.25,kg,False,False,,organic,Organic; Gluten Free Pasta; Dietary Food
+19851,Schar Wafers Lemon 125g,2.13,2.25,0.13,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19873,Golden Harvest Gf Buns X2,2.11,2.11,1.0,p,False,False,,organic,Organic; Golden Harvest; Gluten Free Products; Dietary Food
+19883,Brain Foods Hazelnut Wafer 40g,2.32,2.44,0.04,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+19892,Biona Spelt Noodles 250g,3.99,4.15,0.25,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19898,Biona Pumpernickle Bread 500g,3.32,3.45,0.75,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+19907,Servivita Spicy Chilli 320ml,4.24,4.35,1.0,p,False,False,,organic,Organic; Dietary Food; SERVIVITA
+19929,Tezori Gluten Free Vegan Ftira 200g,1.9,1.99,0.2,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+19933,Schar Fette Croccanti Toast 150g,1.94,2.05,0.15,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+19934,Rebeko Mayonnaise Sauce 425ml,5.57,5.99,0.43,l,False,False,,organic,Organic; Dietary Food
+19944,Sanum Per Fructus Acacia Honey 300g,5.73,6.03,1.0,p,False,False,,organic,Organic; Dietary Food
+19947,Pensa Bio Pearly Spelt 500g,3.61,3.75,0.5,kg,False,False,,organic,Organic; Dietary Food
+19962,Radisson Diet Whole Rice Cakes 130g,1.94,1.99,0.13,kg,False,False,,organic,Organic; Radisson; Dietary Food
+19974,Skinny Bar Cookies & Cream 60g,2.26,2.4,0.06,kg,False,False,,organic,Organic; Low Fat products; Dietary Food
+19983,Aubergines Organic,3.7,3.7,1.0,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+19988,Sz Dolce Soffice No Added Sugars 650g,14.07,15.0,0.65,kg,False,False,,organic,Organic; Sugar Free Products; Dietary Food
+19992,Mr.yummy Black Cookie Protein Bagel 60g,1.92,1.99,0.06,kg,False,False,,organic,Organic; Dietary Food
+20005,Riso Scotti Bio Rice And Almond 1l,2.47,2.75,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20035,Plants Smooth Roasted Almond Butter With Ginger Cinnamon & Vanilla 170g,5.28,5.5,0.17,kg,False,False,,organic,Organic; Dietary Food
+20049,Pensa Bio Biscotti Integrali Farro Uvetta Bacche Goji Bio  250g,3.94,4.09,0.25,kg,False,False,,organic,Organic; Dietary Food
+20051,Apples ( Organic Apples ),8.16,8.16,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20068,Skinny Crunch Chocolate Hoops & Marshmallows Cereal 375g,4.18,4.5,0.38,kg,False,False,,organic,Organic; Dietary Food
+20072,Servivita Balsamic Dressing  320ml,4.24,4.35,1.0,p,False,False,,organic,Organic; Dietary Food; SERVIVITA
+20079,Riso Scotti Riso Vital Soya 1l,1.48,1.65,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20090,Body Attack Protein Donut Blueberry 60g,2.64,2.75,0.06,kg,False,False,,organic,Organic; Dietary Food
+20091,Orgran Pasta Garden Veggie Spirals 350g,4.97,5.3,0.35,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20092,Trevijano Quinoa 1kg,8.95,11.0,0.1,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20094,Whole Earth Butter Original Smooth Peanut 1kg,11.76,12.25,1.0,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20110,Im Protein Creme Choc Almond 250g,7.39,7.95,0.25,kg,False,False,,organic,Organic; Dietary Food
+20113,Pellito Lov Almond & Greek Raisin Oat Bites 70g,2.16,2.25,0.07,kg,False,False,,organic,Organic; Gluten Free Products; Pellito; Dietary Food
+20119,Pensa Bio Curry 40g,3.18,3.3,0.04,kg,False,False,,organic,Organic; Dietary Food
+20143,Vivo Shaker,13.35,13.9,1.0,p,False,False,,organic,Organic; Dietary Food
+20158,Genuine Coconut Chips Vanilla & Cacao 34g,1.25,1.75,0.03,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20160,Biona Organic Tempeh 400g,5.24,5.45,0.4,kg,False,False,,organic,Biona; Organic; Organic Food; Dietary Food
+20166,Made Good Granola Bars Chocolate Chip 144g,4.14,4.3,0.14,kg,False,False,,organic,Organic; Madegood; Organic Food; Dietary Food
+20183,Rummo Legume Maccheroncelli 300g,2.65,3.4,0.3,kg,False,False,,organic,Organic; Rummo; Gluten Free Products; Dietary Food
+20196,Pukka Organic Turmeric Gold X20,6.07,6.5,20.0,p,False,False,United Kingdom,organic,Organic; Pukka; Dietary Food
+20237,Brain Foods Flapjack Chocolate & Orange 70g,2.79,2.98,0.07,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food
+20243,Doves Farm Flour Gluten Free White Bread 1kg,4.08,4.25,1.0,kg,False,False,,organic,Organic; Gluten Free Products; Doves Farm Organic; Dietary Food
+20246,Delba Organic Sunflower Seed Bread,1.98,2.15,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20251,Lovemore Stem Ginger Cookies 150g,4.95,5.5,0.15,kg,False,False,,organic,Organic; Lovemore; Dietary Food
+20253,Orgran Spliits Pumpkin 125g,4.03,4.3,0.13,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20266,Healthy Leaf Chocolate Organge Truffles 135g,5.8,5.99,0.14,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; HEALTHY LEAF
+20279,Pukka Organic Three Ginger X20,6.07,6.5,20.0,p,False,False,,organic,Organic; Pukka; Dietary Food
+20286,Orgran Mix Brownie Choc 400g,5.02,5.35,0.4,kg,False,False,,organic,Organic; Gluten Free Products; Dietary Food; Orgran
+20309,Orgran Pasta Rice & Corn Macaroni Large 350g,4.97,5.3,0.35,kg,False,False,,organic,Organic; Organic Food; Dietary Food; Orgran
+20312,Deliciously Ella Apple Oat Bar 50g,1.73,1.8,0.05,kg,False,False,,organic,Organic; Dietary Food
+20326,Schar Pasta Pipe 500g,2.98,3.15,0.5,kg,False,False,,organic,Organic; Schar; Gluten Free Products; Dietary Food
+20332,Rice Up Rice Cakes 120g Super Seeds,1.24,1.29,0.12,kg,False,False,,organic,Organic; Rice Up; Gluten Free Products; Dietary Food
+20334,Rice Up Bar Dark Chocolate Orange 18g,0.39,0.45,0.02,kg,False,False,,organic,Organic; Rice Up; Dietary Food
+20336,Purasana Vegan Protein Mix 55%pea Sunflower Hemp Banana 400g,19.19,20.2,1.0,p,False,False,,organic,Organic; Organic Food; Dietary Food
+20340,Nature Oat & Almond Drink 1l,2.13,2.45,1.0,l,False,False,,organic,Organic; Dietary Food; Nature; Dairy Free Products
+20352,Riso Scotti Riso Vital Rice Coconut Added Sugar 1l,1.8,2.0,1.0,l,False,False,,organic,Organic; Riso Scotti; Low Fat products; Dietary Food
+20353,Deliciously Ella Hazelnut Nut Butter Balls 36g,2.11,2.2,0.04,kg,False,False,,organic,Organic; Dietary Food
+20375,Gen Veg Taro Truffata Chips 45g,1.75,2.25,0.05,kg,False,False,,organic,Organic; Organic Food; Dietary Food
+20377,Pasta Natura Gluten Free Oat Flour 250g,2.98,3.1,0.25,kg,False,False,,organic,Organic; Dietary Food
+20380,The Beginnings Oat Caramel Cookies Soft Baked 80g,3.6,3.75,0.08,kg,False,False,,organic,Organic; Dietary Food
+20402,Nairns Oatcakes Gluten Free Oat Cakes 200g,3.46,3.6,0.2,kg,False,False,,organic,Nairn'S; Organic; Gluten Free Products; Dietary Food
+20408,Mestemacher Sunflower Bread 500g,2.6,2.75,0.5,kg,False,False,,organic,Organic; Mestemacher; Dietary Food
+20410,Diablo Sugar Free Chocolate Muffin 45g,0.77,0.99,0.05,kg,False,False,,organic,Organic; Dietary Food; Diablo
